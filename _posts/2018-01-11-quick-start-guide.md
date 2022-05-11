@@ -1,27 +1,52 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "Tips and Tricks of Mediumish"
 author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+categories: [ Jekyll, tutorial, web development ]
+image: "https://images.unsplash.com/photo-1541544537156-7627a7a4aa1c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a20c472bc23308e390c8ffae3dd90c60&auto=format&fit=crop&w=750&q=80"
+# internal or external # image: assets/images/14.jpg
 featured: true
 hidden: true
+beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
+toc: true
+
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
-
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
-
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
-
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
-
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
-
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
-
-#### So how do we do spoilers?
+## So how do we do spoilers?
 
 ```html
 <span class="spoiler">My hidden paragraph here.</span>
 ```
+
+## Product Reviews
+
+It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
+
+```html
+---
+layout: post
+title:  "Inception Movie"
+author: john
+categories: [ Jekyll, tutorial ]
+tags: [red, yellow]
+image: assets/images/11.jpg
+description: "My review of Inception movie. Actors, directing and more."
+rating: 4.5
+---
+```
+
+## Special formatting
+
+As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
+
++ ~~strike through~~
++ ==highlight==
++ \*escaped characters\*
+
+## site.baseurl
+
+site stores all the variables we set in config and frontmatter.. and whatever system variables are baked in too I'm sure.
+
+`![walking]({{ site.baseurl }}/assets/images/8.jpg)`
+
+![walking]({{ site.baseurl }}/assets/images/8.jpg)
