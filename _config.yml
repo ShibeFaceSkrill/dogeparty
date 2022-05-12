@@ -1,7 +1,7 @@
 # Site
-name: "ShibeFace on Dogeparty"
-title: "ShibeFaceSkrill on Dogeparty"
-description: "Everything about Dogeparty, our treasury, and available assets."
+name:  "ShibeFaceSkrill does Dogeparty"
+title: "ShibeFaceSkrill does Dogeparty"
+description: "ShibeFaces on Dogeparty: minting and collecting NFT on the Dogecoin blockchain."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -16,10 +16,10 @@ authors:
   face:
     name: Face
     display_name: Face
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/face.jpg'
     email: shibefaceskrill@gmail.com
-    web: https://shibeface.finance
-    twitter: https://twitter.com/shibefaceskrill
+    web: https://linktr.ee/shibefaceskrill
+    twitter: https://twitter.com/YourVeryShibe
     description: "Creator of ShibeFaceSkrill."
   john:
     name: John
