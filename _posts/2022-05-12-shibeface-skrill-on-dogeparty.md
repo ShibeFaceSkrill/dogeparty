@@ -33,7 +33,7 @@ You see, when I first learned about NFT, a few years ago, they were commonly ref
 <div class="alert alert-primary" role="alert">
   These '<a href="https://knowyourmeme.com/memes/rare-pepe">Rare Pepe</a>' were minted on the Bitcoin blockchain, using Counterparty XDP, which gets its functionality by "<a href="https://counterparty.io/docs/protocol_specification/">writing in the margins</a>" of a regular bitcoin transaction. 
 </div>
-<center><img src="{{ site.baseurl }}/assets/images/sfdogeparty/rarepepe.webp"><br>
+<center><img src="/assets/images/sfdogeparty/rarepepe.webp"><br>
 <sub><a href="https://news.bitcoin.com/matt-furie-adds-to-2016-nft-card-collection-rare-pepe-directory-is-complete-says-nft-wallet-creator/">Matt Furie Adds to 2016 NFT Card Collection — 'Rare Pepe Directory Is Complete,' Says NFT Wallet Creator</a></sub></center>
 
 <br><b>Once I learned Dogeparty is Counterparty, but on Dogecoin, "<em>the people's blockchain</em>", I was instantly sold</b>.
@@ -117,20 +117,20 @@ If you love the cultures surrounding Dogecoin, cryptocurrency, and internet hist
 
 <div class="row">
   <div class="column">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk20_finance-punk.png">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk5_party-punk.png">
+    <img src="/assets/images/sfdogeparty/doge-punks/realdogepunk20_finance-punk.png">
+    <img src="/assets/images/sfdogeparty/doge-punks/realdogepunk5_party-punk.png">
   </div>
   <div class="column">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk23_pirate-punk.png">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk-jesus.png">
+    <img src="/assets/images/sfdogeparty/doge-punks/realdogepunk23_pirate-punk.png">
+    <img src="/assets/images/sfdogeparty/doge-punks/realdogepunk-jesus.png">
   </div>
   <div class="column">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/Matrix-Doge.png">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/Pharaoh-Doge.png">
+    <img src="/assets/images/sfdogeparty/doge-pixels/Matrix-Doge.png">
+    <img src="/assets/images/sfdogeparty/doge-pixels/Pharaoh-Doge.png">
   </div>
   <div class="column">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/mcdonalds-doge.png">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/belle-dogephine.gif">
+    <img src="/assets/images/sfdogeparty/doge-pixels/mcdonalds-doge.png">
+    <img src="/assets/images/sfdogeparty/doge-pixels/belle-dogephine.gif">
   </div>
 </div>
 <center><a href="http://doge-punks.com/">Real Doge Punks</a> — <a href="https://dogepixels.io/">Doge Pixels</a></center>
@@ -145,13 +145,13 @@ One of the most important and noteworthy features of Dogeparty is its historical
 
 Dogeparty was initially active from [August 2014 to May 2016](https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf) (H/T [Doggfather](https://twitter.com/DoggfatherC)), and was relaunched in [August 2021](https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080).
 
-![]({{ site.baseurl }}/assets/images/sfdogeparty/historical-NFT-chart_2011-2014.png)
+![](/assets/images/sfdogeparty/historical-NFT-chart_2011-2014.png)
 
 The first NFT on Dogecoin (JOLLY ROGER + MILKYWAY) were minted in August 2014, a full year before the [first nft on Ethereum](https://etheria.world/whatis.html).
 
 You can own a piece of history, from the earliest days of cryptocurrency, on the Dogecoin blockchain. 
 
-<center><img src="{{ site.baseurl }}/assets/images/sfdogeparty/digital-antiquities_2011-2017_WRabbit1111.png"><br>
+<center><img src="/assets/images/sfdogeparty/digital-antiquities_2011-2017_WRabbit1111.png"><br>
 <sub><a href="https://twitter.com/WRabbit1111/status/1520046749637017602/photo/1">WhiteRabbit1111 - Historical NFTs</a></sub></center>
 
 The digital antiquities market has only begun to form, but is growing rapidly. 
@@ -173,17 +173,19 @@ Dogecoin has proven its staying power, and continued relevance. The next most po
 
 ##### [JOLLYROGER](https://dogeparty.xchain.io/asset/JOLLYROGER) (550 supply): [1.0 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/8029409432362741) - [1.1 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/56124434602577931) - [1.5 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/2718871751143001) - [1.5 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/18523322209707731) - [2.0 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/89877054580959541) - [2.4 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/36449470027029831) 
 
-<img src="http://i.imgur.com/fvBjuEK.png">
+<center><img src="http://i.imgur.com/fvBjuEK.png"></center>
 
 ##### [MILKYWAY](https://dogeparty.xchain.io/asset/MILKYWAY) (300 supply): [1.0 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/11814565816720161)
 
-<img src="https://i.imgur.com/JocyXBD.jpg">
+<center><img src="https://i.imgur.com/JocyXBD.jpg"></center>
 
 ##### [TURNTABLE](https://dogeparty.xchain.io/asset/TURNTABLE) (300 supply): [1.0 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/27631499887924281) 
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://bafybeielsz55e3fdp5do6qxngiej2ntyvvm32z4tquuqxwqphikeglpghu.ipfs.dweb.link/"></iframe>
-</div>
+<center>
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://bafybeielsz55e3fdp5do6qxngiej2ntyvvm32z4tquuqxwqphikeglpghu.ipfs.dweb.link/"></iframe>
+  </div>
+</center>
 
 ### Elons Map
 

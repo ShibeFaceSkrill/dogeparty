@@ -5,8 +5,8 @@
     <description>ShibeFaces on Dogeparty: minting and collecting NFT on the Dogecoin blockchain.</description>
     <link>/dogeparty/</link>
     <atom:link href="/dogeparty/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 May 2022 02:07:57 -0400</pubDate>
-    <lastBuildDate>Sun, 15 May 2022 02:07:57 -0400</lastBuildDate>
+    <pubDate>Sun, 15 May 2022 02:13:35 -0400</pubDate>
+    <lastBuildDate>Sun, 15 May 2022 02:13:35 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -57,7 +57,7 @@
 &lt;div class=&quot;alert alert-primary&quot; role=&quot;alert&quot;&gt;
   These '&lt;a href=&quot;https://knowyourmeme.com/memes/rare-pepe&quot;&gt;Rare Pepe&lt;/a&gt;' were minted on the Bitcoin blockchain, using Counterparty XDP, which gets its functionality by &quot;&lt;a href=&quot;https://counterparty.io/docs/protocol_specification/&quot;&gt;writing in the margins&lt;/a&gt;&quot; of a regular bitcoin transaction. 
 &lt;/div&gt;
-&lt;center&gt;&lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/rarepepe.webp&quot; /&gt;&lt;br /&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/images/sfdogeparty/rarepepe.webp&quot; /&gt;&lt;br /&gt;
 &lt;sub&gt;&lt;a href=&quot;https://news.bitcoin.com/matt-furie-adds-to-2016-nft-card-collection-rare-pepe-directory-is-complete-says-nft-wallet-creator/&quot;&gt;Matt Furie Adds to 2016 NFT Card Collection — 'Rare Pepe Directory Is Complete,' Says NFT Wallet Creator&lt;/a&gt;&lt;/sub&gt;&lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;Once I learned Dogeparty is Counterparty, but on Dogecoin, “&lt;em&gt;the people’s blockchain&lt;/em&gt;”, I was instantly sold&lt;/b&gt;.&lt;/p&gt;
@@ -142,20 +142,20 @@
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-punks/realdogepunk20_finance-punk.png&quot; /&gt;
-    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-punks/realdogepunk5_party-punk.png&quot; /&gt;
+    &lt;img src=&quot;/assets/images/sfdogeparty/doge-punks/realdogepunk20_finance-punk.png&quot; /&gt;
+    &lt;img src=&quot;/assets/images/sfdogeparty/doge-punks/realdogepunk5_party-punk.png&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-punks/realdogepunk23_pirate-punk.png&quot; /&gt;
-    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-punks/realdogepunk-jesus.png&quot; /&gt;
+    &lt;img src=&quot;/assets/images/sfdogeparty/doge-punks/realdogepunk23_pirate-punk.png&quot; /&gt;
+    &lt;img src=&quot;/assets/images/sfdogeparty/doge-punks/realdogepunk-jesus.png&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-pixels/Matrix-Doge.png&quot; /&gt;
-    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-pixels/Pharaoh-Doge.png&quot; /&gt;
+    &lt;img src=&quot;/assets/images/sfdogeparty/doge-pixels/Matrix-Doge.png&quot; /&gt;
+    &lt;img src=&quot;/assets/images/sfdogeparty/doge-pixels/Pharaoh-Doge.png&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-pixels/mcdonalds-doge.png&quot; /&gt;
-    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-pixels/belle-dogephine.gif&quot; /&gt;
+    &lt;img src=&quot;/assets/images/sfdogeparty/doge-pixels/mcdonalds-doge.png&quot; /&gt;
+    &lt;img src=&quot;/assets/images/sfdogeparty/doge-pixels/belle-dogephine.gif&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;center&gt;&lt;a href=&quot;http://doge-punks.com/&quot;&gt;Real Doge Punks&lt;/a&gt; — &lt;a href=&quot;https://dogepixels.io/&quot;&gt;Doge Pixels&lt;/a&gt;&lt;/center&gt;
@@ -170,13 +170,13 @@
 
 &lt;p&gt;Dogeparty was initially active from &lt;a href=&quot;https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf&quot;&gt;August 2014 to May 2016&lt;/a&gt; (H/T &lt;a href=&quot;https://twitter.com/DoggfatherC&quot;&gt;Doggfather&lt;/a&gt;), and was relaunched in &lt;a href=&quot;https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080&quot;&gt;August 2021&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/historical-NFT-chart_2011-2014.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/sfdogeparty/historical-NFT-chart_2011-2014.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The first NFT on Dogecoin (JOLLY ROGER + MILKYWAY) were minted in August 2014, a full year before the &lt;a href=&quot;https://etheria.world/whatis.html&quot;&gt;first nft on Ethereum&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;You can own a piece of history, from the earliest days of cryptocurrency, on the Dogecoin blockchain.&lt;/p&gt;
 
-&lt;center&gt;&lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/digital-antiquities_2011-2017_WRabbit1111.png&quot; /&gt;&lt;br /&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/images/sfdogeparty/digital-antiquities_2011-2017_WRabbit1111.png&quot; /&gt;&lt;br /&gt;
 &lt;sub&gt;&lt;a href=&quot;https://twitter.com/WRabbit1111/status/1520046749637017602/photo/1&quot;&gt;WhiteRabbit1111 - Historical NFTs&lt;/a&gt;&lt;/sub&gt;&lt;/center&gt;
 
 &lt;p&gt;The digital antiquities market has only begun to form, but is growing rapidly.&lt;/p&gt;
@@ -200,17 +200,19 @@
 
 &lt;h5 id=&quot;jollyroger-550-supply-10-eth---11-eth---15-eth---15-eth---20-eth---24-eth&quot;&gt;&lt;a href=&quot;https://dogeparty.xchain.io/asset/JOLLYROGER&quot;&gt;JOLLYROGER&lt;/a&gt; (550 supply): &lt;a href=&quot;https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/8029409432362741&quot;&gt;1.0 ETH&lt;/a&gt; - &lt;a href=&quot;https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/56124434602577931&quot;&gt;1.1 ETH&lt;/a&gt; - &lt;a href=&quot;https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/2718871751143001&quot;&gt;1.5 ETH&lt;/a&gt; - &lt;a href=&quot;https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/18523322209707731&quot;&gt;1.5 ETH&lt;/a&gt; - &lt;a href=&quot;https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/89877054580959541&quot;&gt;2.0 ETH&lt;/a&gt; - &lt;a href=&quot;https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/36449470027029831&quot;&gt;2.4 ETH&lt;/a&gt;&lt;/h5&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/fvBjuEK.png&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;http://i.imgur.com/fvBjuEK.png&quot; /&gt;&lt;/center&gt;
 
 &lt;h5 id=&quot;milkyway-300-supply-10-eth&quot;&gt;&lt;a href=&quot;https://dogeparty.xchain.io/asset/MILKYWAY&quot;&gt;MILKYWAY&lt;/a&gt; (300 supply): &lt;a href=&quot;https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/11814565816720161&quot;&gt;1.0 ETH&lt;/a&gt;&lt;/h5&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/JocyXBD.jpg&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;https://i.imgur.com/JocyXBD.jpg&quot; /&gt;&lt;/center&gt;
 
 &lt;h5 id=&quot;turntable-300-supply-10-eth&quot;&gt;&lt;a href=&quot;https://dogeparty.xchain.io/asset/TURNTABLE&quot;&gt;TURNTABLE&lt;/a&gt; (300 supply): &lt;a href=&quot;https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/27631499887924281&quot;&gt;1.0 ETH&lt;/a&gt;&lt;/h5&gt;
 
-&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://bafybeielsz55e3fdp5do6qxngiej2ntyvvm32z4tquuqxwqphikeglpghu.ipfs.dweb.link/&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+&lt;center&gt;
+  &lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+    &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;https://bafybeielsz55e3fdp5do6qxngiej2ntyvvm32z4tquuqxwqphikeglpghu.ipfs.dweb.link/&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/center&gt;
 
 &lt;h3 id=&quot;elons-map&quot;&gt;Elons Map&lt;/h3&gt;
 
