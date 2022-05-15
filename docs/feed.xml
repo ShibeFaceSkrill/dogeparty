@@ -3,10 +3,10 @@
   <channel>
     <title>ShibeFaceSkrill does Dogeparty</title>
     <description>ShibeFaces on Dogeparty: minting and collecting NFT on the Dogecoin blockchain.</description>
-    <link>dogeparty/</link>
-    <atom:link href="dogeparty/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 May 2022 02:03:46 -0400</pubDate>
-    <lastBuildDate>Sun, 15 May 2022 02:03:46 -0400</lastBuildDate>
+    <link>/dogeparty/</link>
+    <atom:link href="/dogeparty/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 15 May 2022 02:05:15 -0400</pubDate>
+    <lastBuildDate>Sun, 15 May 2022 02:05:15 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -24,8 +24,8 @@
 &lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 May 2022 00:00:00 -0400</pubDate>
-        <link>dogeparty/top-NFT-on-Dogecoin/</link>
-        <guid isPermaLink="true">dogeparty/top-NFT-on-Dogecoin/</guid>
+        <link>/dogeparty/top-NFT-on-Dogecoin/</link>
+        <guid isPermaLink="true">/dogeparty/top-NFT-on-Dogecoin/</guid>
         
         <category>Dogeparty</category>
         
@@ -57,7 +57,7 @@
 &lt;div class=&quot;alert alert-primary&quot; role=&quot;alert&quot;&gt;
   These '&lt;a href=&quot;https://knowyourmeme.com/memes/rare-pepe&quot;&gt;Rare Pepe&lt;/a&gt;' were minted on the Bitcoin blockchain, using Counterparty XDP, which gets its functionality by &quot;&lt;a href=&quot;https://counterparty.io/docs/protocol_specification/&quot;&gt;writing in the margins&lt;/a&gt;&quot; of a regular bitcoin transaction. 
 &lt;/div&gt;
-&lt;center&gt;&lt;img src=&quot;dogeparty/assets/images/sfdogeparty/rarepepe.webp&quot; /&gt;&lt;br /&gt;
+&lt;center&gt;&lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/rarepepe.webp&quot; /&gt;&lt;br /&gt;
 &lt;sub&gt;&lt;a href=&quot;https://news.bitcoin.com/matt-furie-adds-to-2016-nft-card-collection-rare-pepe-directory-is-complete-says-nft-wallet-creator/&quot;&gt;Matt Furie Adds to 2016 NFT Card Collection — 'Rare Pepe Directory Is Complete,' Says NFT Wallet Creator&lt;/a&gt;&lt;/sub&gt;&lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;Once I learned Dogeparty is Counterparty, but on Dogecoin, “&lt;em&gt;the people’s blockchain&lt;/em&gt;”, I was instantly sold&lt;/b&gt;.&lt;/p&gt;
@@ -142,20 +142,20 @@
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;dogeparty/assets/images/sfdogeparty/doge-punks/realdogepunk20_finance-punk.png&quot; /&gt;
-    &lt;img src=&quot;dogeparty/assets/images/sfdogeparty/doge-punks/realdogepunk5_party-punk.png&quot; /&gt;
+    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-punks/realdogepunk20_finance-punk.png&quot; /&gt;
+    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-punks/realdogepunk5_party-punk.png&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;dogeparty/assets/images/sfdogeparty/doge-punks/realdogepunk23_pirate-punk.png&quot; /&gt;
-    &lt;img src=&quot;dogeparty/assets/images/sfdogeparty/doge-punks/realdogepunk-jesus.png&quot; /&gt;
+    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-punks/realdogepunk23_pirate-punk.png&quot; /&gt;
+    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-punks/realdogepunk-jesus.png&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;dogeparty/assets/images/sfdogeparty/doge-pixels/Matrix-Doge.png&quot; /&gt;
-    &lt;img src=&quot;dogeparty/assets/images/sfdogeparty/doge-pixels/Pharaoh-Doge.png&quot; /&gt;
+    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-pixels/Matrix-Doge.png&quot; /&gt;
+    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-pixels/Pharaoh-Doge.png&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;dogeparty/assets/images/sfdogeparty/doge-pixels/mcdonalds-doge.png&quot; /&gt;
-    &lt;img src=&quot;dogeparty/assets/images/sfdogeparty/doge-pixels/belle-dogephine.gif&quot; /&gt;
+    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-pixels/mcdonalds-doge.png&quot; /&gt;
+    &lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/doge-pixels/belle-dogephine.gif&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;center&gt;&lt;a href=&quot;http://doge-punks.com/&quot;&gt;Real Doge Punks&lt;/a&gt; — &lt;a href=&quot;https://dogepixels.io/&quot;&gt;Doge Pixels&lt;/a&gt;&lt;/center&gt;
@@ -170,13 +170,13 @@
 
 &lt;p&gt;Dogeparty was initially active from &lt;a href=&quot;https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf&quot;&gt;August 2014 to May 2016&lt;/a&gt; (H/T &lt;a href=&quot;https://twitter.com/DoggfatherC&quot;&gt;Doggfather&lt;/a&gt;), and was relaunched in &lt;a href=&quot;https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080&quot;&gt;August 2021&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;dogeparty/assets/images/sfdogeparty/historical-NFT-chart_2011-2014.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/historical-NFT-chart_2011-2014.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The first NFT on Dogecoin (JOLLY ROGER + MILKYWAY) were minted in August 2014, a full year before the &lt;a href=&quot;https://etheria.world/whatis.html&quot;&gt;first nft on Ethereum&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;You can own a piece of history, from the earliest days of cryptocurrency, on the Dogecoin blockchain.&lt;/p&gt;
 
-&lt;center&gt;&lt;img src=&quot;dogeparty/assets/images/sfdogeparty/digital-antiquities_2011-2017_WRabbit1111.png&quot; /&gt;&lt;br /&gt;
+&lt;center&gt;&lt;img src=&quot;/dogeparty/assets/images/sfdogeparty/digital-antiquities_2011-2017_WRabbit1111.png&quot; /&gt;&lt;br /&gt;
 &lt;sub&gt;&lt;a href=&quot;https://twitter.com/WRabbit1111/status/1520046749637017602/photo/1&quot;&gt;WhiteRabbit1111 - Historical NFTs&lt;/a&gt;&lt;/sub&gt;&lt;/center&gt;
 
 &lt;p&gt;The digital antiquities market has only begun to form, but is growing rapidly.&lt;/p&gt;
@@ -221,8 +221,8 @@
 &lt;p&gt;Cover background by &lt;a href=&quot;https://unsplash.com/photos/ZhQCZjr9fHo&quot;&gt;Aditya Chinchure&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 May 2022 00:00:00 -0400</pubDate>
-        <link>dogeparty/shibeface-skrill-on-dogeparty/</link>
-        <guid isPermaLink="true">dogeparty/shibeface-skrill-on-dogeparty/</guid>
+        <link>/dogeparty/shibeface-skrill-on-dogeparty/</link>
+        <guid isPermaLink="true">/dogeparty/shibeface-skrill-on-dogeparty/</guid>
         
         <category>sfSkrill</category>
         
@@ -337,7 +337,7 @@
 &lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;dogeparty/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/dogeparty/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
 
@@ -352,8 +352,8 @@
 &lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
-        <link>dogeparty/powerful-things-markdown-editor/</link>
-        <guid isPermaLink="true">dogeparty/powerful-things-markdown-editor/</guid>
+        <link>/dogeparty/powerful-things-markdown-editor/</link>
+        <guid isPermaLink="true">/dogeparty/powerful-things-markdown-editor/</guid>
         
         
         <category>Jekyll</category>
@@ -410,13 +410,13 @@ rating: 4.5
 
 &lt;p&gt;site stores all the variables we set in config and frontmatter.. and whatever system variables are baked in too I’m sure.&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;![walking](dogeparty/assets/images/8.jpg)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;![walking](/dogeparty/assets/images/8.jpg)&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;dogeparty/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/dogeparty/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Jan 2018 00:00:00 -0500</pubDate>
-        <link>dogeparty/quick-start-guide/</link>
-        <guid isPermaLink="true">dogeparty/quick-start-guide/</guid>
+        <link>/dogeparty/quick-start-guide/</link>
+        <guid isPermaLink="true">/dogeparty/quick-start-guide/</guid>
         
         
         <category>Jekyll</category>
