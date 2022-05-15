@@ -5,8 +5,8 @@
     <description>ShibeFaces on Dogeparty: minting and collecting NFT on the Dogecoin blockchain.</description>
     <link>/dogeparty/</link>
     <atom:link href="/dogeparty/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 May 2022 02:13:35 -0400</pubDate>
-    <lastBuildDate>Sun, 15 May 2022 02:13:35 -0400</lastBuildDate>
+    <pubDate>Sun, 15 May 2022 02:21:44 -0400</pubDate>
+    <lastBuildDate>Sun, 15 May 2022 02:21:44 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -57,7 +57,7 @@
 &lt;div class=&quot;alert alert-primary&quot; role=&quot;alert&quot;&gt;
   These '&lt;a href=&quot;https://knowyourmeme.com/memes/rare-pepe&quot;&gt;Rare Pepe&lt;/a&gt;' were minted on the Bitcoin blockchain, using Counterparty XDP, which gets its functionality by &quot;&lt;a href=&quot;https://counterparty.io/docs/protocol_specification/&quot;&gt;writing in the margins&lt;/a&gt;&quot; of a regular bitcoin transaction. 
 &lt;/div&gt;
-&lt;center&gt;&lt;img src=&quot;/assets/images/sfdogeparty/rarepepe.webp&quot; /&gt;&lt;br /&gt;
+&lt;center&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/rarepepe.webp&quot; /&gt;&lt;br /&gt;
 &lt;sub&gt;&lt;a href=&quot;https://news.bitcoin.com/matt-furie-adds-to-2016-nft-card-collection-rare-pepe-directory-is-complete-says-nft-wallet-creator/&quot;&gt;Matt Furie Adds to 2016 NFT Card Collection — 'Rare Pepe Directory Is Complete,' Says NFT Wallet Creator&lt;/a&gt;&lt;/sub&gt;&lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;b&gt;Once I learned Dogeparty is Counterparty, but on Dogecoin, “&lt;em&gt;the people’s blockchain&lt;/em&gt;”, I was instantly sold&lt;/b&gt;.&lt;/p&gt;
@@ -107,28 +107,28 @@
         &lt;div id=&quot;carousel-example&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
             &lt;div class=&quot;carousel-inner row w-100 mx-auto&quot; role=&quot;listbox&quot;&gt;
                 &lt;div class=&quot;carousel-item col-12 col-sm-6 col-md-4 col-lg-3 active&quot;&gt;
-                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;/assets/images/sfdogeparty/rare-doge/DOGEMINATI.gif&quot; href=&quot;https://raredogedirectory.com/card/DOGEMINATI&quot; alt=&quot;Dogeminati - Rare Doge Directory&quot; /&gt;
+                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/rare-doge/DOGEMINATI.gif&quot; href=&quot;https://raredogedirectory.com/card/DOGEMINATI&quot; alt=&quot;Dogeminati - Rare Doge Directory&quot; /&gt;
                 &lt;/div&gt;
                 &lt;div class=&quot;carousel-item col-12 col-sm-6 col-md-4 col-lg-3&quot;&gt;
-                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;/assets/images/sfdogeparty/rare-doge/PINAPDOGE.gif&quot; href=&quot;https://raredogedirectory.com/card/PINAPDOGE&quot; alt=&quot;PinapDoge - Rare Doge Directory&quot; /&gt;
+                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/rare-doge/PINAPDOGE.gif&quot; href=&quot;https://raredogedirectory.com/card/PINAPDOGE&quot; alt=&quot;PinapDoge - Rare Doge Directory&quot; /&gt;
                 &lt;/div&gt;
                 &lt;div class=&quot;carousel-item col-12 col-sm-6 col-md-4 col-lg-3&quot;&gt;
-                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;/assets/images/sfdogeparty/rare-doge/DOGEOMTRY.png&quot; href=&quot;https://raredogedirectory.com/card/DOGEOMTRY&quot; alt=&quot;Dogeomtry - Rare Doge Directory&quot; /&gt;
+                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/rare-doge/DOGEOMTRY.png&quot; href=&quot;https://raredogedirectory.com/card/DOGEOMTRY&quot; alt=&quot;Dogeomtry - Rare Doge Directory&quot; /&gt;
                 &lt;/div&gt;
                 &lt;div class=&quot;carousel-item col-12 col-sm-6 col-md-4 col-lg-3&quot;&gt;
-                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;/assets/images/sfdogeparty/rare-doge/DOGETIME.png&quot; href=&quot;https://raredogedirectory.com/card/DOGETIME&quot; alt=&quot;Doge Time - Rare Doge Directory&quot; /&gt;
+                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/rare-doge/DOGETIME.png&quot; href=&quot;https://raredogedirectory.com/card/DOGETIME&quot; alt=&quot;Doge Time - Rare Doge Directory&quot; /&gt;
                 &lt;/div&gt;
                 &lt;div class=&quot;carousel-item col-12 col-sm-6 col-md-4 col-lg-3&quot;&gt;
-                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;/assets/images/sfdogeparty/rare-doge/DOGEINGNEO.gif&quot; href=&quot;https://raredogedirectory.com/card/DOGEINGNEO&quot; alt=&quot;Dogeing NEO - Rare Doge Directory&quot; /&gt;
+                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/rare-doge/DOGEINGNEO.gif&quot; href=&quot;https://raredogedirectory.com/card/DOGEINGNEO&quot; alt=&quot;Dogeing NEO - Rare Doge Directory&quot; /&gt;
                 &lt;/div&gt;
                 &lt;div class=&quot;carousel-item col-12 col-sm-6 col-md-4 col-lg-3&quot;&gt;
-                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;/assets/images/sfdogeparty/rare-doge/MRWOKE.png&quot; href=&quot;https://raredogedirectory.com/card/MRWOKE&quot; alt=&quot;Mr Woke - Rare Doge Directory&quot; /&gt;
+                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/rare-doge/MRWOKE.png&quot; href=&quot;https://raredogedirectory.com/card/MRWOKE&quot; alt=&quot;Mr Woke - Rare Doge Directory&quot; /&gt;
                 &lt;/div&gt;
                 &lt;div class=&quot;carousel-item col-12 col-sm-6 col-md-4 col-lg-3&quot;&gt;
-                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;/assets/images/sfdogeparty/rare-doge/touchofdoge.gif&quot; href=&quot;https://raredogedirectory.com/card/TOUCHOFDOGE&quot; alt=&quot;Touch of Doge - Rare Doge Directory&quot; /&gt;
+                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/rare-doge/touchofdoge.gif&quot; href=&quot;https://raredogedirectory.com/card/TOUCHOFDOGE&quot; alt=&quot;Touch of Doge - Rare Doge Directory&quot; /&gt;
                 &lt;/div&gt;
                 &lt;div class=&quot;carousel-item col-12 col-sm-6 col-md-4 col-lg-3&quot;&gt;
-                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;/assets/images/sfdogeparty/rare-doge/DOGEPRTYCOIN.gif&quot; href=&quot;https://raredogedirectory.com/card/DOGEPRTYCOIN&quot; alt=&quot;Dogeparty Coin 3D - Rare Doge Directory&quot; /&gt;
+                    &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/rare-doge/DOGEPRTYCOIN.gif&quot; href=&quot;https://raredogedirectory.com/card/DOGEPRTYCOIN&quot; alt=&quot;Dogeparty Coin 3D - Rare Doge Directory&quot; /&gt;
                 &lt;/div&gt;
             &lt;/div&gt; 
         &lt;/div&gt;
@@ -142,20 +142,20 @@
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;/assets/images/sfdogeparty/doge-punks/realdogepunk20_finance-punk.png&quot; /&gt;
-    &lt;img src=&quot;/assets/images/sfdogeparty/doge-punks/realdogepunk5_party-punk.png&quot; /&gt;
+    &lt;img src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/doge-punks/realdogepunk20_finance-punk.png&quot; /&gt;
+    &lt;img src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/doge-punks/realdogepunk5_party-punk.png&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;/assets/images/sfdogeparty/doge-punks/realdogepunk23_pirate-punk.png&quot; /&gt;
-    &lt;img src=&quot;/assets/images/sfdogeparty/doge-punks/realdogepunk-jesus.png&quot; /&gt;
+    &lt;img src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/doge-punks/realdogepunk23_pirate-punk.png&quot; /&gt;
+    &lt;img src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/doge-punks/realdogepunk-jesus.png&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;/assets/images/sfdogeparty/doge-pixels/Matrix-Doge.png&quot; /&gt;
-    &lt;img src=&quot;/assets/images/sfdogeparty/doge-pixels/Pharaoh-Doge.png&quot; /&gt;
+    &lt;img src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/doge-pixels/Matrix-Doge.png&quot; /&gt;
+    &lt;img src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/doge-pixels/Pharaoh-Doge.png&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;/assets/images/sfdogeparty/doge-pixels/mcdonalds-doge.png&quot; /&gt;
-    &lt;img src=&quot;/assets/images/sfdogeparty/doge-pixels/belle-dogephine.gif&quot; /&gt;
+    &lt;img src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/doge-pixels/mcdonalds-doge.png&quot; /&gt;
+    &lt;img src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/doge-pixels/belle-dogephine.gif&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;center&gt;&lt;a href=&quot;http://doge-punks.com/&quot;&gt;Real Doge Punks&lt;/a&gt; — &lt;a href=&quot;https://dogepixels.io/&quot;&gt;Doge Pixels&lt;/a&gt;&lt;/center&gt;
@@ -176,7 +176,7 @@
 
 &lt;p&gt;You can own a piece of history, from the earliest days of cryptocurrency, on the Dogecoin blockchain.&lt;/p&gt;
 
-&lt;center&gt;&lt;img src=&quot;/assets/images/sfdogeparty/digital-antiquities_2011-2017_WRabbit1111.png&quot; /&gt;&lt;br /&gt;
+&lt;center&gt;&lt;img src=&quot;https://raw.githubusercontent.com/ShibeFaceSkrill/dogeparty/master/assets/images/sfdogeparty/digital-antiquities_2011-2017_WRabbit1111.png&quot; /&gt;&lt;br /&gt;
 &lt;sub&gt;&lt;a href=&quot;https://twitter.com/WRabbit1111/status/1520046749637017602/photo/1&quot;&gt;WhiteRabbit1111 - Historical NFTs&lt;/a&gt;&lt;/sub&gt;&lt;/center&gt;
 
 &lt;p&gt;The digital antiquities market has only begun to form, but is growing rapidly.&lt;/p&gt;
