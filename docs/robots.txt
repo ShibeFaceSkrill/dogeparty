@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /dogeparty/sitemap.xml
