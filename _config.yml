@@ -4,7 +4,7 @@ title: "ShibeFaceSkrill does Dogeparty"
 description: "ShibeFaces on Dogeparty: minting and collecting NFT on the Dogecoin blockchain."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: ''
+baseurl: '/dogeparty'
 #google_analytics: 'UA-46278016-1'
 #disqus: 'demowebsite'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
