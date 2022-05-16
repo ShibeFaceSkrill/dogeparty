@@ -113,7 +113,7 @@ If you love the cultures surrounding Dogecoin, cryptocurrency, and internet hist
 
 <p>Lately I've been doing some pretty deep studies into Doge NFT. I've looked on Ethereum, Matic, Solana, and Dogecoin, determining which are the most important Doge NFT projects worth paying attention to.</p>
 
-<p>There are some great DOGE NFT communities out there, and in future this blog will discuss other chains, but as far as Doge NFT, nothing compares to the artwork right here on the Dogecoin blockchain.</p>
+<p>There are some great DOGE NFT communities out there, and in future we'll cover other chains, but as far as Doge NFT, nothing compares to the artwork available right here on the Dogecoin blockchain.</p>
 
 <div class="row">
   <div class="column">
@@ -139,9 +139,9 @@ If you love the cultures surrounding Dogecoin, cryptocurrency, and internet hist
 
 <p>They are not all necessarily fitting to the common mold of what ETH 10k PFP collections have imprinted on the market. All the same, some are quite competitive, both artistically and memetically, to what we've come to expect from leading NFT projects.</p>
 
-## Dogeparty is an essential part of crypto-history
+## Dogeparty was there since the early days of crypto-assets
 
-One of the most important and noteworthy features of Dogeparty is its historical significance in NFT culture and the Bitcoin space.
+A noteworthy feature of Dogeparty is its historical significance in NFT culture and the Bitcoin space.
 
 Dogeparty was initially active from [August 2014 to May 2016](https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf) (H/T [Doggfather](https://twitter.com/DoggfatherC)), and was relaunched in [August 2021](https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080).
 
@@ -158,7 +158,7 @@ The digital antiquities market has only begun to form, but is growing rapidly.
 
 ## Dogeparty has a growing ecosystem of related tools and integrations
 
-Dogecoin has proven its staying power, and continued relevance. The next most popular meme-coin is ShibaInuCoin, named after the iconic breed of Dogecoin's [Doge](https://knowyourmeme.com/memes/doge).
+Dogecoin has proven its staying power, and continued relevance in the blockchain space. Similar to its native chain, Dogeparty is more relevant today than it ever was.
 
 ### Emblem Vaults
 
@@ -189,12 +189,25 @@ Dogecoin has proven its staying power, and continued relevance. The next most po
 
 ### Elons Map
 
+ELONSMAP is a map where you can set up location dependent airdrops for Dogecoin and Dogecoin NFT \ Dogeparty Assets.  
+
 [ELONSMAP](https://elonsmap.com/) - Drop Dogecoin and Dogecoin NFTs anywhere to do good!
 
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/ACIVnC7GG6">https://t.co/ACIVnC7GG6</a> is live!<br><br>Drop <a href="https://twitter.com/hashtag/Dogecoin?src=hash&amp;ref_src=twsrc%5Etfw">#Dogecoin</a> or Dogecoin NFTs digitally on any physical location. <br><br>Tesla Giga Factory and the SpaceX Development facility drops are waiting to be picked up. <a href="https://twitter.com/search?q=%24DOGE&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DOGE</a><br><br>Adding <a href="https://twitter.com/search?q=%24XCP&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$XCP</a> <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> support today. <a href="https://t.co/DvM5a0pXpk">pic.twitter.com/DvM5a0pXpk</a></p>&mdash; 265 Ryan (@RyanAvenue) <a href="https://twitter.com/RyanAvenue/status/1524411279389118465?ref_src=twsrc%5Etfw">May 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+
+> The idea is to drop $Doge anywhere to have fun or help make the community better. 
+> 
+> Drop 100 doge on some trash. Person picks it up, gets the doge. - [@RyanAvenue](https://twitter.com/RyanAvenue/status/1524546917153361920?s=20&t=EAEp6P_TKEaSarj7pN5isA)
 
 ### DogeCord
 
-- DogeKord: https://countercord.github.io/DogeKord.html - DogeKord is a Dogecoin and XDP Asset Verification tool for Discord!
+[DogeKord](https://countercord.github.io/DogeKord.html) is a Dogecoin and XDP Asset Verification tool for Discord!
+
+Create token holder channels for dogeparty assets. Just like [Collab Land](https://collab.land/) for Ethereum assets, DogeKord verifies your token balances to allow for granting special roles\access on discord, which projects and teams can use for community development purposes. 
+
+## Dogecoin and Dogeparty to the Moon!!!
+
+
 
 ## Credits
 
