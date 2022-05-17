@@ -20,8 +20,8 @@ hidden: true
 
 Ethereum's smart-contract blockchain spurred much development and helped to inspire the speculative fervor of 2017...
 
-...where Cryptokitties shut down the blockchain during the peak of that bull-run!
-...Ethereum is where 10k NFT collections exploded became a widspread cultural and economic phenomenon in 2021
+...where Cryptokitties shut down the blockchain during the peak of that bull-run!<br>
+...Ethereum is where 10k NFT collections exploded became a widspread cultural and economic phenomenon in 2021<br>
 ...Ethereum is where collectors have predomenantly looked for valuable NFT to collect.
 
 I had many reasons why to *begin* a cross-chain exploration of NFT utility on the Ethereum blockchain.
