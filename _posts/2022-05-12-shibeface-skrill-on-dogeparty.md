@@ -145,7 +145,7 @@ A noteworthy feature of Dogeparty is its historical significance in NFT culture 
 
 Dogeparty was initially active from [August 2014 to May 2016](https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf) (H/T [Doggfather](https://twitter.com/DoggfatherC)), and was relaunched in [August 2021](https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080).
 
-![](/assets/images/sfdogeparty/historical-NFT-chart_2011-2014.png)
+![]({{ site.baseurl }}/assets/images/sfdogeparty/historical-NFT-chart_2011-2014.png)
 
 The first NFT on Dogecoin (JOLLY ROGER + MILKYWAY) were minted in August 2014, a full year before the [first nft on Ethereum](https://etheria.world/whatis.html).
 
@@ -205,10 +205,35 @@ ELONSMAP is a map where you can set up location dependent airdrops for Dogecoin 
 
 Create token holder channels for dogeparty assets. Just like [Collab Land](https://collab.land/) for Ethereum assets, DogeKord verifies your token balances to allow for granting special roles\access on discord, which projects and teams can use for community development purposes. 
 
-## Dogecoin and Dogeparty to the Moon!!!
+## Dogecoin and Dogeparty are going to the Moon!!!
 
 
 
-## Credits
+## Learn More About Dogeparty
+
+- [Website](https://dogeparty.net/)
+- [Dogeparty Wallets](https://dogeparty.net/wallets/)
+- [Blockchain Explorer](https://dogeparty.xchain.io/)
+- [Dogeparty University](https://dp.university/curriculum)
+- [Dogeparty Foundation News](https://dogeparty.net/news/)
+- [Twitter](https://twitter.com/DogepartyXDP)
+- [Reddit](https://www.reddit.com/r/xdp/)
+- [Main Telegram](https://t.me/DogepartyXDP)
+- [Telegram Shill\Giveaways](https://t.me/XDPShill)
+- [GitHub](https://github.com/DogepartyXDP)
+- [Documentation](https://github.com/DogepartyXDP/Documentation)
+
+### Doggfather Blogs
+
+- [Chasing “invisible” 2014 Counterparty tokens](https://doggfather.medium.com/chasing-invisible-2014-counterparty-tokens-e0916c96c60f)  
+  > creating a new Counterparty token a few weeks ago, I was puzzled after checking the issuances tab on xchain.io.
+- [Dogeparty: NFT meta-layer on top of Dogecoin (Part 1  2014-2016)](https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf) 
+  > Dogeparty is a meta-layer on top of the Dogecoin (DOGE) network for non-fungible token (NFT).
+- [Dogeparty: What has happened since relaunch in fall 2021 (Part 2)](https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080) 
+  > operational in August 2014, went silent in May 2016 and was relaunched in August 2021. This article deals with the period after the relaunch
+
+### Dogeparty Projects
+
+
 
 Cover background by [Aditya Chinchure](https://unsplash.com/photos/ZhQCZjr9fHo)
