@@ -28,13 +28,15 @@ I had many reasons why to *begin* a cross-chain exploration of NFT utility on th
 
 ## That was before I discovered Dogeparty!!!
 
+<img src="{{ site.baseurl }}/assets/images/sfdogeparty/welcome-to-the-dogeparty.png" style="width:100%;">
+
 You see, when I first learned about NFT, a few years ago, they were commonly referred to as "Digitally Rare Art". Of these historically ancient NFT, Rare Pepe was probably the first NFT collection to achieve financial sucessful, with individual card trading for [hundreds of thousands of dollars](https://en.wikipedia.org/wiki/Rare_Pepe#History), at auctions and in the after market. 
 
 <div class="alert alert-primary" role="alert">
   These '<a href="https://knowyourmeme.com/memes/rare-pepe">Rare Pepe</a>' were minted on the Bitcoin blockchain, using Counterparty XDP, which gets its functionality by "<a href="https://counterparty.io/docs/protocol_specification/">writing in the margins</a>" of a regular bitcoin transaction. 
 </div>
-<center><img src="{{ site.baseurl }}/assets/images/sfdogeparty/rarepepe.webp"><br>
-<sub><a href="https://news.bitcoin.com/matt-furie-adds-to-2016-nft-card-collection-rare-pepe-directory-is-complete-says-nft-wallet-creator/">Matt Furie Adds to 2016 NFT Card Collection — 'Rare Pepe Directory Is Complete,' Says NFT Wallet Creator</a></sub></center>
+<img src="{{ site.baseurl }}/assets/images/sfdogeparty/rarepepe.webp" style="width:100%;"><br>
+<center><sub><a href="https://news.bitcoin.com/matt-furie-adds-to-2016-nft-card-collection-rare-pepe-directory-is-complete-says-nft-wallet-creator/">Matt Furie Adds to 2016 NFT Card Collection — 'Rare Pepe Directory Is Complete,' Says NFT Wallet Creator</a></sub></center>
 
 <br><b>Once I learned Dogeparty is Counterparty, but on Dogecoin, "<em>the people's blockchain</em>", I was instantly sold</b>.
 
@@ -151,8 +153,8 @@ The first NFT on Dogecoin (JOLLY ROGER + MILKYWAY) were minted in August 2014, a
 
 You can own a piece of history, from the earliest days of cryptocurrency, on the Dogecoin blockchain. 
 
-<center><img src="{{ site.baseurl }}/assets/images/sfdogeparty/digital-antiquities_2011-2017_WRabbit1111.png"><br>
-<sub><a href="https://twitter.com/WRabbit1111/status/1520046749637017602/photo/1">WhiteRabbit1111 - Historical NFTs</a></sub></center>
+<img src="{{ site.baseurl }}/assets/images/sfdogeparty/digital-antiquities_2011-2017_WRabbit1111.png" style="width:100%;"><br>
+<center><sub><a href="https://twitter.com/WRabbit1111/status/1520046749637017602/photo/1">WhiteRabbit1111 - Historical NFTs</a></sub></center>
 
 The digital antiquities market has only begun to form, but is growing rapidly. 
 
