@@ -4,7 +4,7 @@ title:  "What's ShibeFaceSkrill doing on Dogeparty?"
 author: face
 #categories: [ when needed ]
 tags: [sfSkrill, Dogeparty]
-image: assets/images/sfdogeparty/cover_Aditya-Chinchure_sfDogeparty.png
+image: assets/images/sfdogeparty/cover_Aditya-Chinchure_sfDogeparty.webp
 description: "ShibeFaceSkrill is releasing a series of NFT collections featuring the faces of Shiba Inu exploring financial use-cases for NFT across multiple blockchains."
 featured: true
 hidden: true
@@ -47,7 +47,7 @@ In 2021, some Counterparty developers brought Dogeparty back to life, allowing t
 
 ## Mint NFT and other tokens on the Dogecoin blockchain!
 
-<img src="{{ site.baseurl }}/assets/images/sfdogeparty/welcome-to-the-dogeparty.png" style="width:100%;">
+<img src="{{ site.baseurl }}/assets/images/sfdogeparty/welcome-to-the-dogeparty.webp" style="width:100%;">
 
 Dogecoiners love quirky memes with our favorite dog and its supportive community. 
 
@@ -128,20 +128,20 @@ If you love the cultures surrounding Dogecoin, cryptocurrency, and internet hist
 
 <div class="row">
   <div class="column">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk20_finance-punk.png">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk5_party-punk.png">
+    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk20_finance-punk.webp">
+    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk5_party-punk.webp">
   </div>
   <div class="column">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk23_pirate-punk.png">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk-jesus.png">
+    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk23_pirate-punk.webp">
+    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk-jesus.webp">
   </div>
   <div class="column">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/Matrix-Doge.png">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/Pharaoh-Doge.png">
+    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/Matrix-Doge.webp">
+    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/Pharaoh-Doge.webp">
   </div>
   <div class="column">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/mcdonalds-doge.png">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/belle-dogephine.gif">
+    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/mcdonalds-doge.webp">
+    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/belle-dogephine.webp">
   </div>
 </div>
 <center><a href="http://doge-punks.com/">Real Doge Punks</a> — <a href="https://dogepixels.io/">Doge Pixels</a></center>
@@ -156,7 +156,7 @@ A noteworthy feature of Dogeparty is its historical significance in NFT culture 
 
 Dogeparty was initially active from [August 2014 to May 2016](https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf) (H/T [Doggfather](https://twitter.com/DoggfatherC)), and was relaunched in [August 2021](https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080).
 
-<img src="{{ site.baseurl }}/assets/images/sfdogeparty/historical-NFT-chart_2011-2014.png" style="width:100%;">
+<img src="{{ site.baseurl }}/assets/images/sfdogeparty/historical-NFT-chart_2011-2014.webp" style="width:100%;">
 
 The first NFT on Dogecoin (JOLLY ROGER + MILKYWAY) were minted in August 2014, a full year before the [first nft on Ethereum](https://etheria.world/whatis.html).
 
@@ -181,11 +181,11 @@ Dogecoin has proven its staying power, and continued relevance in the blockchain
 
 ##### [JOLLYROGER](https://dogeparty.xchain.io/asset/JOLLYROGER) (550 supply): [1.0 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/8029409432362741) - [1.1 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/56124434602577931) - [1.5 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/2718871751143001) - [1.5 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/18523322209707731) - [2.0 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/89877054580959541) - [2.4 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/36449470027029831) 
 
-<img class="img-responsive img-rounded img-fluid" src="{{ site.baseurl }}/assets/images/sfdogeparty/JOLLYROGER.png" style="width:100%;"><br>
+<img class="img-responsive img-rounded img-fluid" src="{{ site.baseurl }}/assets/images/sfdogeparty/JOLLYROGER.webp" style="width:100%;"><br>
 
 ##### [MILKYWAY](https://dogeparty.xchain.io/asset/MILKYWAY) (300 supply): [1.0 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/11814565816720161)
 
-<img class="img-responsive img-rounded img-fluid" src="{{ site.baseurl }}/assets/images/sfdogeparty/MILKYWAY.jpg" style="width:100%;"><br>
+<img class="img-responsive img-rounded img-fluid" src="{{ site.baseurl }}/assets/images/sfdogeparty/MILKYWAY.webp" style="width:100%;"><br>
 
 ##### [TURNTABLE](https://dogeparty.xchain.io/asset/TURNTABLE) (300 supply): [1.0 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/27631499887924281) 
 
@@ -215,7 +215,9 @@ Create token holder channels for dogeparty assets. Just like [Collab Land](https
 
 ## Both Dogecoin and Dogeparty are headed to the Moon!!!
 
-<img src="{{ site.baseurl }}/assets/images/sfdogeparty/dogeparty-to-the-moon.png" style="width:100%;">
+Dogeparty is just getting back on its feet after some years in hibernation. It's the perfect type of gem I like to uncover and shine some light onto. Very much excited to see how this community grows over the coming years, and happy to be a part of it.
+
+<img src="{{ site.baseurl }}/assets/images/sfdogeparty/dogeparty-to-the-moon.webp" style="width:100%;">
 
 ## Learn More About Dogeparty
 
@@ -241,4 +243,6 @@ Create token holder channels for dogeparty assets. Just like [Collab Land](https
 - [Dogeparty: What has happened since relaunch in fall 2021 (Part 2)](https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080) 
   > operational in August 2014, went silent in May 2016 and was relaunched in August 2021. This article deals with the period after the relaunch
 
-Cover background by [Aditya Chinchure](https://unsplash.com/photos/ZhQCZjr9fHo)
+---
+
+* Cover image background by [Aditya Chinchure](https://unsplash.com/photos/ZhQCZjr9fHo)
