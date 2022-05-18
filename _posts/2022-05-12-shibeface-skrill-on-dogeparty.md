@@ -18,17 +18,17 @@ hidden: true
 
 **Ethereum is a blockchain full of legacy**
 
-Ethereum's smart-contract blockchain spurred much development and helped to inspire the speculative fervor of 2017...
+While Bitcoin brought decentralized digital currency to the world, it was Ethereum's smart-contracts that popularized it and helped inspire the speculative fervor of 2017 and the explosion of an ecosystem of ecosystems and industry to touch all other industries.
 
-...where Cryptokitties shut down the blockchain during the peak of that bull-run!<br>
+...Ethereum is where Cryptokitties shut down the blockchain during the peak of that bull-run!<br>
 ...Ethereum is where 10k NFT collections exploded became a widspread cultural and economic phenomenon in 2021<br>
 ...Ethereum is where collectors have predomenantly looked for valuable NFT to collect.
 
 I had many reasons why to *begin* a cross-chain exploration of NFT utility on the Ethereum blockchain.
 
-## That was before I disovered Dogeparty!!!
+## That was before I discovered Dogeparty!!!
 
-You see, when I first learned about NFT, a few years ago, they were commonly referred to as "Digitally Rare Art". Among these historically ancient NFT, Rare Pepe was among the earliest financially sucessful NFT collections, with individual cards having sold for [hundreds of thousands of dollars](https://en.wikipedia.org/wiki/Rare_Pepe#History), at auctions and in the after market. 
+You see, when I first learned about NFT, a few years ago, they were commonly referred to as "Digitally Rare Art". Of these historically ancient NFT, Rare Pepe was probably the first NFT collection to achieve financial sucessful, with individual card trading for [hundreds of thousands of dollars](https://en.wikipedia.org/wiki/Rare_Pepe#History), at auctions and in the after market. 
 
 <div class="alert alert-primary" role="alert">
   These '<a href="https://knowyourmeme.com/memes/rare-pepe">Rare Pepe</a>' were minted on the Bitcoin blockchain, using Counterparty XDP, which gets its functionality by "<a href="https://counterparty.io/docs/protocol_specification/">writing in the margins</a>" of a regular bitcoin transaction. 
@@ -40,13 +40,13 @@ You see, when I first learned about NFT, a few years ago, they were commonly ref
 
 ## Mint NFT and other tokens on the Dogecoin blockchain!
 
-Dogecoiners love quirky memes and our supportive community. Dogeparty takes everything thats great about Dogecoin, and adds tools enabling permissionless finance. 
+Dogecoiners love quirky memes and our supportive community. Dogeparty takes everything thats great about Dogecoin and just adds tools enabling permissionless finance. 
 
-With Dogeparty and the Dogecoin blockchain easy and affordable for anyone to mint NFT and other assets, without coding experience, including a [rich featureset](https://dogeparty.net/#features) covering common needs. 
+With Dogeparty and the Dogecoin blockchain easy and affordable for anyone to mint NFT and other assets, regardless of technical experience, including a [rich featureset](https://dogeparty.net/#features) covering common needs. 
 
 **The Dogeparty community is fun, inclusive and friendly! Just like the Doge(coin) community it forms a part of.**
 
-Unlike Ethereum smart-contracts, Dogeparty wallet includes automated functions for common features, leaving you to focus on arts, supply, distribution, utility and community development.
+Unlike Ethereum smart-contracts, Dogeparty wallet includes automated functions for common features, leaving you to focus on the fun parts of releasing crypto tokens: arts, utility, supply, distribution and community development.
 
 ## A _Doge_-Cultural Experience
 
@@ -111,7 +111,7 @@ If you love the cultures surrounding Dogecoin, cryptocurrency, and internet hist
 </div>
 <center><sup><a href="https://raredogedirectory.com">Rare Doge Directory</a></sup></center>
 
-<p>Lately I've been doing some pretty deep studies into Doge NFT. I've looked on Ethereum, Matic, Solana, and Dogecoin, determining which are the most important Doge NFT projects worth paying attention to.</p>
+<p>Lately I've been doing some pretty deep studies into Doge NFT. I've looked on Ethereum, Matic, Solana, and Dogecoin, determining which are the most important Doge NFT collections worth paying attention to.</p>
 
 <p>There are some great DOGE NFT communities out there, and in future we'll cover other chains, but as far as Doge NFT, nothing compares to the artwork available right here on the Dogecoin blockchain.</p>
 
@@ -145,7 +145,7 @@ A noteworthy feature of Dogeparty is its historical significance in NFT culture 
 
 Dogeparty was initially active from [August 2014 to May 2016](https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf) (H/T [Doggfather](https://twitter.com/DoggfatherC)), and was relaunched in [August 2021](https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080).
 
-![]({{ site.baseurl }}/assets/images/sfdogeparty/historical-NFT-chart_2011-2014.png)
+<img src="{{ site.baseurl }}/assets/images/sfdogeparty/historical-NFT-chart_2011-2014.png" style="width:100%;">
 
 The first NFT on Dogecoin (JOLLY ROGER + MILKYWAY) were minted in August 2014, a full year before the [first nft on Ethereum](https://etheria.world/whatis.html).
 
@@ -173,11 +173,11 @@ Dogecoin has proven its staying power, and continued relevance in the blockchain
 
 ##### [JOLLYROGER](https://dogeparty.xchain.io/asset/JOLLYROGER) (550 supply): [1.0 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/8029409432362741) - [1.1 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/56124434602577931) - [1.5 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/2718871751143001) - [1.5 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/18523322209707731) - [2.0 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/89877054580959541) - [2.4 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/36449470027029831) 
 
-<center><img class="img-responsive img-rounded img-fluid" src="http://i.imgur.com/fvBjuEK.png"></center><br>
+<img class="img-responsive img-rounded img-fluid" src="{{ site.baseurl }}/assets/images/sfdogeparty/JOLLYROGER.png" style="width:100%;"><br>
 
 ##### [MILKYWAY](https://dogeparty.xchain.io/asset/MILKYWAY) (300 supply): [1.0 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/11814565816720161)
 
-<center><img class="img-responsive img-rounded img-fluid" src="https://i.imgur.com/JocyXBD.jpg"></center><br>
+<img class="img-responsive img-rounded img-fluid" src="{{ site.baseurl }}/assets/images/sfdogeparty/MILKYWAY.jpg" style="width:100%;"><br>
 
 ##### [TURNTABLE](https://dogeparty.xchain.io/asset/TURNTABLE) (300 supply): [1.0 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/27631499887924281) 
 
@@ -207,7 +207,7 @@ Create token holder channels for dogeparty assets. Just like [Collab Land](https
 
 ## Dogecoin and Dogeparty are going to the Moon!!!
 
-
+<img src="{{ site.baseurl }}/assets/images/sfdogeparty/dogeparty-to-the-moon.png" style="width:100%;>
 
 ## Learn More About Dogeparty
 
