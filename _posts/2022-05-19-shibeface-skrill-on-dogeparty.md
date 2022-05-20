@@ -31,7 +31,7 @@ I had many reasons why to *begin* a cross-chain exploration of NFT utility on th
 When I first learned about NFT, a few years ago, they were called "Digitally Rare Art". Some of the earliest example were minted on the Bitcoin blockchain.
 
 <center><img src="{{ site.baseurl }}/assets/images/sfdogeparty/rarepepe.webp" style="width:100%;"><br>
-<sup><a href="https://news.bitcoin.com/matt-furie-adds-to-2016-nft-card-collection-rare-pepe-directory-is-complete-says-nft-wallet-creator/">Matt Furie Adds to 2016 NFT Card Collection — 'Rare Pepe Directory Is Complete,' Says NFT Wallet Creator</a></sup></center>
+<sup><a href="https://news.bitcoin.com/matt-furie-adds-to-2016-nft-card-collection-rare-pepe-directory-is-complete-says-nft-wallet-creator/">Matt Furie Adds to 2016 NFT Card Collection — 'Rare Pepe Directory Is Complete'</a></sup></center>
 
 Rare Pepe was probably the first collection to achieve financial success, with individual card trading for [hundreds of thousands of dollars](https://en.wikipedia.org/wiki/Rare_Pepe#History), at auctions and in the aftermarket. 
 
