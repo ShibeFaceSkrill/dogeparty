@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: ShibeFaceSkrill
 permalink: /about
 comments: true
 ---
@@ -8,27 +8,30 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/data/SKRILL.png" alt="Skrill Token" /></p>
 <h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>Please, read the docs <a href="https://docs.shibeface.finance/">here</a>.</p>
 
 <h4>Questions or bug reports?</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>Head over to our <a href="https://discord.gg/56J85Kk32m">Discord Server</a>!</p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Get SKRILL</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>SKRILL may be used in exclusive dispensers and exchanged for whitelist passes for future NFT drops.<br><br>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+SKRILL is gifted to eligible holders of ShibeFaceSkrill assets on Dogeparty, and accessible by dispenser at the rate of 10 SKRILL per DOGE</p>
+
+
+<a target="_blank" href="https://dogeparty.xchain.io/tx/8daefe7f107de2adb6cb2e10f3e292bc15570070d0970c4bff9b82887ef8d490" class="btn btn-danger">Get $SKRILL</a> <a target="_blank" href="https://docs.shibeface.finance" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
