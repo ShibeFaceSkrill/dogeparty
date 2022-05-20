@@ -7,6 +7,7 @@ hidden: true
 #categories: [ when needed ]
 tags: [ Dogeparty ]
 image: assets/images/17.jpg
+draft: true
 ---
 
 
