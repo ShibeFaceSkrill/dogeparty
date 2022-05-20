@@ -11,24 +11,24 @@ hidden: true
 ---
 
 <div class="alert alert-primary" role="alert">
-  ShibeFaceSkrill is releasing a series of NFT collections featuring the faces of Shiba Inu, exploring financial use-cases across multiple blockchains.
+  ShibeFaceSkrill is releasing a series of NFT collections across multiple blockchains, exploring financial use-cases, featuring the faces of Shiba Inu dogs.
 </div>
 
-## Initially, we planned to begin this journey on Ethereum
+## Initially, ShibeFaceSkrill was to begin its journey on Ethereum
 
 **Ethereum is a blockchain full of legacy**
 
-While Bitcoin brought decentralized digital currency to the world, it was Ethereum's smart-contracts that popularized it and helped inspire the speculative fervor of 2017 and the explosion of an ecosystem of ecosystems and industry to touch all other industries.
+While Bitcoin brought decentralized digital currency to the world, it was Ethereum's smart-contracts that popularized cryptocurrency and helped inspire the speculative fervor of 2017, where the birth of DeFi helped to spur the bull-run of 2021 and the ecosystems of ecosystems that have emerged, connecting with and encouraging the growth and development of all other industries.
 
 - Ethereum is where Cryptokitties shut down the blockchain during the peak of that bull-run!
-- Ethereum is where 10k NFT collections exploded became a widespread cultural and economic phenomenon in 2021
+- Ethereum is where 10k PFP collections exploded and NFT became a widespread cultural\economic phenomenon in 2021
 - Ethereum is where collectors have predominantly looked for valuable NFT to collect
 
 I had many reasons why to *begin* a cross-chain exploration of NFT utility on the Ethereum blockchain.
 
 ## That was before I discovered Dogeparty!!!
 
-When I first learned about NFT, a few years ago, they were called "Digitally Rare Art". Some of the earliest example were minted on the Bitcoin blockchain.
+When I first learned about NFT, they were called "Digitally Rare Art". Some of the earliest example were minted on the Bitcoin blockchain.
 
 <center><img src="{{ site.baseurl }}/assets/images/sfdogeparty/rarepepe.webp" style="width:100%;"><br>
 <sup><a href="https://news.bitcoin.com/matt-furie-adds-to-2016-nft-card-collection-rare-pepe-directory-is-complete-says-nft-wallet-creator/">Matt Furie Adds to 2016 NFT Card Collection — 'Rare Pepe Directory Is Complete'</a></sup></center>
