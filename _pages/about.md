@@ -26,10 +26,11 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Get SKRILL</h5>
 
-<p>SKRILL may be used in exclusive dispensers and exchanged for whitelist passes for future NFT drops.<br><br>
+<p>SKRILL may be used in exclusive dispensers and exchanged for whitelist passes to future cross-chain NFT drops.<br><br>
 
 SKRILL is gifted to eligible holders of ShibeFaceSkrill assets on Dogeparty, and accessible by dispenser at the rate of 10 SKRILL per DOGE</p>
 
+<p>I'm just going to buy more dogeparty assets :D</p>
 
 <a target="_blank" href="https://dogeparty.xchain.io/tx/8daefe7f107de2adb6cb2e10f3e292bc15570070d0970c4bff9b82887ef8d490" class="btn btn-danger">Get $SKRILL</a> <a target="_blank" href="https://docs.shibeface.finance" class="btn btn-warning">Documentation</a>
 
