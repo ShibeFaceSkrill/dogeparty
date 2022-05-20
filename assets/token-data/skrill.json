@@ -1,0 +1,14 @@
+{
+  "name": "SKRILL",
+  "asset": "SKRILL",
+  "image": "https://i.imgur.com/RFmsdCm.png",
+  "success": true,
+  "website": "https://shibeface.finance/dogeparty/",
+  "category": "Project Token",
+  "description": "The SKRILL token can be used for exclusive ShibeFaceSkrill dispensers, whitelist access for future cross-chain NFT-drops, and other purposes to be determined among its team and community.",
+  "image_large": "https://i.imgur.com/L3vJXOF.png",
+  "image_title": "Skrill Token",
+  "asset_owner_address": "DH1293j9GQeDwuKBJkDpdWRX5YGEWw2JBY",
+  "asset_issuer_address": "DH1293j9GQeDwuKBJkDpdWRX5YGEWw2JBY",
+  "website_social_twitter": "https://twitter.com/shibefaceskrill"
+}
