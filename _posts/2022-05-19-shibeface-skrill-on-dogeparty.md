@@ -158,7 +158,9 @@ Dogeparty was initially active from [August 2014 to May 2016](https://doggfather
 
 <img src="{{ site.baseurl }}/assets/images/sfdogeparty/historical-NFT-chart_2011-2014.webp" style="width:100%;">
 
-The first NFT on Dogecoin (JOLLY ROGER + MILKYWAY) were minted in August 2014, a full year before the [first nft on Ethereum](https://etheria.world/whatis.html).
+The first NFT on Dogecoin (JOLLY ROGER + MILKYWAY) were minted in August 2014, a full year before the [first nft on Ethereum](https://etheria.world/whatis.html). 
+
+To be clear, those are the earliest assets on Dogecoin with original artwork. There may be some earlier minted assets,  on Dogecoin, that have subsquently added art.
 
 The digital antiquities market has only begun to form, but is growing rapidly. 
 
@@ -166,7 +168,9 @@ Now is the perfect time to source own a piece of history, from the earliest days
 
 ## Dogeparty has a growing ecosystem of related tools and integrations
 
-Dogecoin has proven its staying power, and continued relevance in the blockchain space. Similar to its Doge-chain, Dogeparty is more relevant today, than ever. Thanks to the good people at the Dogeparty Foundation, and our growing community, you can expect to see this list grow!
+Dogecoin has proven its staying power, and continued relevance in the blockchain space. Similar to its Doge-chain, Dogeparty is more relevant today, than ever. Thanks to the good people at the <a href="https://dogeparty.net/news/">Dogeparty Foundation</a>, and our growing community, you can expect to see this list grow!
+
+At the time of writing, a [Dogeparty Hackathon is still accepting submissions](https://dogeparty.net/dogeparty-hackathon-04-06-2022/). Some of the applications below come from this hackathon, and I would expect there should be more of that to come down the line. If you are interested in building on Dogeparty, [be sure to swing by](https://t.me/dphackathon).
 
 ### Emblem Vaults
 
