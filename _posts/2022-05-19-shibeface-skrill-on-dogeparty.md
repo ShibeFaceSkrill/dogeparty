@@ -8,6 +8,8 @@ image: assets/images/sfdogeparty/cover_Aditya-Chinchure_sfDogeparty.webp
 description: "ShibeFaceSkrill is releasing a series of NFT collections featuring the faces of Shiba Inu exploring financial use-cases for NFT across multiple blockchains."
 featured: true
 hidden: true
+redirect_from: /shibeface-skrill-on-dogeparty/
+permalink: /shibefaceskrill-does-dogeparty/
 ---
 
 <div class="alert alert-primary" role="alert">
