@@ -15,7 +15,7 @@ permalink: /:title/
 authors:
   face:
     name: Face
-    display_name: Face
+    display_name: YourVeryShibe
     avatar: 'assets/images/face.jpg'
     email: shibefaceskrill@gmail.com
     web: https://linktr.ee/shibefaceskrill
@@ -38,6 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-redirect-from
     
 # Archives
 jekyll-archives:
