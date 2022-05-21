@@ -1,7 +1,7 @@
 # Site
 name:  "ShibeFaceSkrill does Dogeparty"
 title: "ShibeFaceSkrill does Dogeparty"
-description: "ShibeFaces on Dogeparty: minting and collecting NFT on the Dogecoin blockchain."
+description: "sfSkrill on Dogeparty: minting and collecting NFT directly on the Dogecoin blockchain."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/dogeparty'
