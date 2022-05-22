@@ -11,6 +11,9 @@ baseurl: '/dogeparty'
 include: ["_pages"]
 permalink: /:title/
 
+twitter:
+  username: ShibeFaceSkrill
+  
 # Authors
 authors:
   face:
