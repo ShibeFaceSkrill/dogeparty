@@ -53,7 +53,9 @@ image: assets/images/sfdogeparty/welcome-dogeparty.webp
 <div class="sticky-top sticky-top-80">
 <h5>Get SKRILL</h5>
 
-<p>SKRILL may be used in exclusive dispensers and exchanged for whitelist passes to future cross-chain NFT drops.<br><br>
+<p>This is our project token on <a href="https://twitter.com/dogepartyxdp">@DogePartyXDP</a>.
+
+SKRILL may be used in exclusive dispensers and exchanged for whitelist passes to future cross-chain NFT drops.<br><br>
 
 SKRILL is gifted to eligible holders of ShibeFaceSkrill assets on Dogeparty XDP, and accessible by dispenser at 10 SKRILL per DOGE.</p>
 
