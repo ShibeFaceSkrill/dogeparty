@@ -197,7 +197,9 @@ At the time of writing, a [Dogeparty Hackathon is still accepting submissions](h
 
 <center>
   <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://bafybeielsz55e3fdp5do6qxngiej2ntyvvm32z4tquuqxwqphikeglpghu.ipfs.dweb.link/"></iframe>
+    <video controls>
+      <source src="https://bafybeielsz55e3fdp5do6qxngiej2ntyvvm32z4tquuqxwqphikeglpghu.ipfs.dweb.link/" type="video/mp4">
+    </video>
   </div>
 </center><br>
 
