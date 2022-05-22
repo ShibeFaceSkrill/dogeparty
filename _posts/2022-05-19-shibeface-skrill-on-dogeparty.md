@@ -47,19 +47,19 @@ In 2021, some Counterparty developers brought Dogeparty back to life, allowing t
 
 <b>Knowing its legacy, and place in Bitcoin history, when I realized that Counterparty was forked for use on Dogecoin, I was instantly sold</b>.
 
-## Mint NFT and other tokens on the Dogecoin blockchain!
+## Mint NFT and other assets on the Dogecoin blockchain!
 
 <img src="{{ site.baseurl }}/assets/images/welcome-dogeparty.webp" style="width:100%;">
 
-Dogecoiners love quirky memes with our favorite dog and its supportive community. 
+Dogecoiners love having fun, wholesome memes, our favorite dog and supportive community. 
 
-Dogeparty takes everything thats great about Dogecoin and just adds tools enabling permissionless finance. 
+Dogeparty takes everything thats great about Dogecoin and adds tools enabling permissionless finance. 
 
-With Dogeparty on the Dogecoin blockchain, its easy and affordable for anyone to mint NFT and other assets, regardless of technical experience, including a [rich feature-set](https://dogeparty.net/#features) covering common needs.
+With Dogeparty on the Dogecoin blockchain, its easy and affordable for anyone to safely mint NFT and other assets, regardless of technical experience, including a [rich feature-set](https://dogeparty.net/#features) covering common needs.
 
 **The Dogeparty community is fun, inclusive and friendly! Just like the Doge(coin) community it forms a part of.**
 
-Unlike Ethereum smart-contracts, [Dogeparty wallets](https://dogeparty.net/wallets) include automated functions for common features, leaving you to focus on the fun parts of releasing crypto tokens: arts, utility, supply, distribution and community development.
+Unlike Ethereum smart-contracts, [Dogeparty wallets](https://dogeparty.net/wallets) take care of the heavy lifting, leaving you to focus on the fun part of creating your best: arts, utility, supply, distribution and community development.
 
 ## A _Doge_-Cultural Experience
 
@@ -126,7 +126,7 @@ If you love the cultures surrounding Dogecoin, cryptocurrency, and internet hist
 
 <p>Lately I've been doing some deep studies into Doge NFT. I've looked on Ethereum, Matic, Solana, and Dogecoin, to determine which are the most important Doge NFT collections worth paying attention to.</p>
 
-<p>There are some great DOGE NFT communities out there, and in future we'll cover Ethereum and other chains, but as far as Doge NFT, nothing compares to the artwork available right here on the Dogecoin blockchain.</p>
+<p>There are some great DOGE NFT communities out there, and in the future we'll cover Ethereum and other chains, but when it comes to *Doge* NFT, nothing compares to the work available right here on the Dogecoin blockchain.</p>
 
 <div class="row">
   <div class="column">
@@ -150,7 +150,7 @@ If you love the cultures surrounding Dogecoin, cryptocurrency, and internet hist
 
 <p>There is a wide variety in the highest of quality arts and memes available via Dogeparty, right on the Dogecoin blockchain.</p> 
 
-<p>They are not all necessarily fitting to the common mold of what ETH 10k PFP collections have imprinted on the market. All the same, some are quite competitive, both artistically and memetically, to what we've come to expect from leading NFT projects.</p>
+<p>They do not all necessarily fit the common mold of what ETH 10k PFP collections have imprinted on the market. All the same, some are quite competitive, both artistically and memetically, to what we've come to expect from leading NFT projects.</p>
 
 ## Dogeparty was there since the early days of crypto-assets
 
@@ -160,9 +160,9 @@ Dogeparty was initially active from [August 2014 to May 2016](https://doggfather
 
 <img src="{{ site.baseurl }}/assets/images/sfdogeparty/historical-NFT-chart_2011-2014.webp" style="width:100%;">
 
-The first NFT on Dogecoin (JOLLY ROGER + MILKYWAY) were minted in August 2014, a full year before the [first nft on Ethereum](https://etheria.world/whatis.html). 
+The first NFT on Dogecoin (JOLLYROGER + MILKYWAY) were minted in August 2014, a full year before the [first nft on Ethereum](https://etheria.world/whatis.html). 
 
-To be clear, those are the earliest assets on Dogecoin with original artwork. There may be some earlier minted assets,  on Dogecoin, that have subsquently added art.
+To be clear, those are the earliest assets on Dogecoin with original artwork. There may be some earlier minted assets in circulation that have had art added, more recently.
 
 The digital antiquities market has only begun to form, but is growing rapidly. 
 
@@ -176,7 +176,7 @@ At the time of writing, a [Dogeparty Hackathon is still accepting submissions](h
 
 ### Emblem Vaults
 
-[Emblem Vaults](https://emblem.finance/), by [Circuits of Value](https://circuitsofvalue.com), are a decentralized token that enable trading tokens from any Blockchain on ANY EVM based chain.
+[Emblem Vaults](https://emblem.finance/), by [Circuits of Value](https://circuitsofvalue.com), is a decentralized bridging platform that enables the wrapping of tokens from any Blockchain to ANY EVM based chain.
 
 ##### Bridge assets from Dogecoin to Ethereum, for listing on OpeanSea
 
@@ -205,9 +205,9 @@ At the time of writing, a [Dogeparty Hackathon is still accepting submissions](h
 
 ### Elons Map
 
-ELONSMAP is where you can set up location dependent airdrops for Dogecoin and Dogecoin NFTs and other Doge assets.  
+ELONSMAP is where you can set up location dependent airdrops for Dogecoin, Dogecoin NFT and other Doge assets.  
 
-[ELONSMAP](https://elonsmap.com/) - Drop Dogecoin and Dogecoin NFTs anywhere to do good!
+[ELONSMAP](https://elonsmap.com/) - Drop Dogecoin and Dogecoin NFT anywhere to do good!
 
 <center><blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/ACIVnC7GG6">https://t.co/ACIVnC7GG6</a> is live!<br><br>Drop <a href="https://twitter.com/hashtag/Dogecoin?src=hash&amp;ref_src=twsrc%5Etfw">#Dogecoin</a> or Dogecoin NFTs digitally on any physical location. <br><br>Tesla Giga Factory and the SpaceX Development facility drops are waiting to be picked up. <a href="https://twitter.com/search?q=%24DOGE&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DOGE</a><br><br>Adding <a href="https://twitter.com/search?q=%24XCP&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$XCP</a> <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> support today. <a href="https://t.co/DvM5a0pXpk">pic.twitter.com/DvM5a0pXpk</a></p>&mdash; 265 Ryan (@RyanAvenue) <a href="https://twitter.com/RyanAvenue/status/1524411279389118465?ref_src=twsrc%5Etfw">May 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
@@ -215,7 +215,7 @@ ELONSMAP is where you can set up location dependent airdrops for Dogecoin and Do
 > 
 > Drop 100 doge on some trash. Person picks it up, gets the doge. - [@RyanAvenue](https://twitter.com/RyanAvenue/status/1524546917153361920?s=20&t=EAEp6P_TKEaSarj7pN5isA)
 
-### DogeCord
+### DogeKord
 
 [DogeKord](https://countercord.github.io/DogeKord.html) is a Dogecoin and XDP Asset Verification tool for Discord!
 
