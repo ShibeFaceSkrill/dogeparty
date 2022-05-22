@@ -49,7 +49,7 @@ In 2021, some Counterparty developers brought Dogeparty back to life, allowing t
 
 ## Mint NFT and other tokens on the Dogecoin blockchain!
 
-<img src="{{ site.baseurl }}/assets/images/sfdogeparty/welcome-to-the-dogeparty.webp" style="width:100%;">
+<img src="{{ site.baseurl }}/assets/images/welcome-dogeparty.webp" style="width:100%;">
 
 Dogecoiners love quirky memes with our favorite dog and its supportive community. 
 
