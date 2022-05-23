@@ -195,7 +195,7 @@ At the time of writing, a [Dogeparty Hackathon is still accepting submissions](h
 
 ##### [TURNTABLE](https://dogeparty.xchain.io/asset/TURNTABLE) (300 supply): [1.0 ETH](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/27631499887924281) 
 
-<img class="img-responsive img-rounded img-fluid" src="{{ site.baseurl }}/assets/images/sfdogeparty/turntable.webp" style="width:50%;"><br>
+<center><img class="img-responsive img-rounded img-fluid" src="{{ site.baseurl }}/assets/images/sfdogeparty/turntable.webp" style="width:50%;"></center><br>
 
 ### Elons Map
 
