@@ -4,7 +4,7 @@ title:  "What's ShibeFaceSkrill doing on Dogeparty?"
 author: face
 #categories: [ when needed ]
 tags: [sfSkrill, Dogeparty]
-image: assets/images/sfdogeparty/cover_Aditya-Chinchure_sfDogeparty.webp
+image: assets/images/sfdogeparty/cover_Aditya-Chinchure_sfDogeparty.png
 description: "ShibeFaceSkrill is releasing a series of NFT collections featuring the faces of Shiba Inu exploring financial use-cases for NFT across multiple blockchains."
 featured: true
 hidden: true
