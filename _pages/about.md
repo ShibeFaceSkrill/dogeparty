@@ -36,7 +36,7 @@ image: assets/images/sfdogeparty/welcome-dogeparty.webp
 
 <p>Each subasset will represent (among other things) the amount of doge that asset was dispensed for, to reward holders proportionally to their spend.</p>
 
-<p class="mb-5"><a  href="https://dogeparty.xchain.io/asset/SFDIVS"><img class="shadow-lg" src="{{site.baseurl}}/data/SFDIVS.webp" width="50%" height="50%" alt="ShibeFace Dividends Tracker" /></a></p>
+<p class="mb-5"><a  href="https://dogeparty.xchain.io/asset/SFDIVS"><img class="shadow-lg" src="{{site.baseurl}}/data/SFDIVS.webp" width="75%" height="75%" alt="ShibeFace Dividends Tracker" /></a></p>
 
 <h4>Documentation</h4>
 
@@ -45,6 +45,8 @@ image: assets/images/sfdogeparty/welcome-dogeparty.webp
 <h4>Questions or bug reports?</h4>
 
 <p>Head over to our <a href="https://discord.gg/56J85Kk32m">Discord Server</a>!</p>
+
+<p class="mb-5"><a  href="https://discord.gg/56J85Kk32m"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/join-discord.webp" alt="Join us on Discord" /></a></p>
 
 </div>
 

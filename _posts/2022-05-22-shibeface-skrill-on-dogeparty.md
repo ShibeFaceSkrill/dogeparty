@@ -152,7 +152,7 @@ If you love the cultures surrounding Dogecoin, cryptocurrency, and internet hist
 
 <p>They do not all necessarily fit the common mold of what ETH 10k PFP collections have imprinted on the market. All the same, some are quite competitive, both artistically and memetically, to what we've come to expect from leading NFT projects.</p>
 
-## Dogeparty was there since the early days of crypto-assets
+## Dogeparty emerged in the the earliest days of crypto-assets
 
 A noteworthy feature of Dogeparty is its historical significance in NFT culture and the Bitcoin space.
 
@@ -198,7 +198,7 @@ At the time of writing, a [Dogeparty Hackathon is still accepting submissions](h
 <center>
   <div class="embed-responsive embed-responsive-16by9">
     <video controls>
-      <source src="https://bafybeielsz55e3fdp5do6qxngiej2ntyvvm32z4tquuqxwqphikeglpghu.ipfs.dweb.link/" type="video/mp4">
+      <source src="{{ site.baseurl }}/assets/images/sfdogeparty/turntable.webp" type="video/mp4">
     </video>
   </div>
 </center><br>
@@ -250,6 +250,10 @@ Dogeparty is just getting back on its feet after some years in hibernation. It's
   > Dogeparty is a meta-layer on top of the Dogecoin (DOGE) network for non-fungible token (NFT).
 - [Dogeparty: What has happened since relaunch in fall 2021 (Part 2)](https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080) 
   > operational in August 2014, went silent in May 2016 and was relaunched in August 2021. This article deals with the period after the relaunch
+
+## Join our community!
+
+<p class="mb-5"><a  href="https://discord.gg/56J85Kk32m"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/join-discord.webp" alt="Join us on Discord" /></a></p>
 
 ---
 
