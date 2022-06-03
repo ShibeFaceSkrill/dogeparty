@@ -95,28 +95,28 @@ If you love the cultures surrounding Dogecoin, cryptocurrency, and internet hist
         <div id="carousel-example" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner row w-100 mx-auto" role="listbox">
                 <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3 active">
-                    <img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/DOGEMINATI.webp" href="https://raredogedirectory.com/card/DOGEMINATI" alt="Dogeminati - Rare Doge Directory">
+                    <a  href="https://raredogedirectory.com/card/DOGEMINATI"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/DOGEMINATI.webp" alt="Dogeminati - Rare Doge Directory"></a>
                 </div>
                 <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/PINAPDOGE.webp" href="https://raredogedirectory.com/card/PINAPDOGE" alt="PinapDoge - Rare Doge Directory">
+                    <a  href="https://raredogedirectory.com/card/PINAPDOGE"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/PINAPDOGE.webp" alt="PinapDoge - Rare Doge Directory"></a>
                 </div>
                 <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/DOGEOMTRY.webp" href="https://raredogedirectory.com/card/DOGEOMTRY" alt="Dogeomtry - Rare Doge Directory">
+                    <a  href="https://raredogedirectory.com/card/DOGEOMTRY"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/DOGEOMTRY.webp" alt="Dogeomtry - Rare Doge Directory"></a>
                 </div>
                 <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/DOGETIME.webp" href="https://raredogedirectory.com/card/DOGETIME" alt="Doge Time - Rare Doge Directory">
+                    <a  href="https://raredogedirectory.com/card/DOGETIME"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/DOGETIME.webp" alt="Doge Time - Rare Doge Directory"></a>
                 </div>
                 <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/DOGEINGNEO.webp" href="https://raredogedirectory.com/card/DOGEINGNEO" alt="Dogeing NEO - Rare Doge Directory">
+                    <a  href="https://raredogedirectory.com/card/DOGEINGNEO"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/DOGEINGNEO.webp" alt="Dogeing NEO - Rare Doge Directory"></a>
                 </div>
                 <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/MRWOKE.webp" href="https://raredogedirectory.com/card/MRWOKE" alt="Mr Woke - Rare Doge Directory">
+                    <a  href="https://raredogedirectory.com/card/MRWOKE"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/MRWOKE.webp" alt="Mr Woke - Rare Doge Directory"></a>
                 </div>
                 <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/touchofdoge.webp" href="https://raredogedirectory.com/card/TOUCHOFDOGE" alt="Touch of Doge - Rare Doge Directory">
+                    <a  href="https://raredogedirectory.com/card/TOUCHOFDOGE"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/touchofdoge.webp" alt="Touch of Doge - Rare Doge Directory"></a>
                 </div>
                 <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/DOGEPRTYCOIN.webp" href="https://raredogedirectory.com/card/DOGEPRTYCOIN" alt="Dogeparty Coin 3D - Rare Doge Directory">
+                    <a  href="https://raredogedirectory.com/card/DOGEPRTYCOIN"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/sfdogeparty/rare-doge/DOGEPRTYCOIN.webp" alt="Dogeparty Coin 3D - Rare Doge Directory"></a>
                 </div>
             </div> 
         </div>
@@ -199,9 +199,9 @@ At the time of writing, a [Dogeparty Hackathon is still accepting submissions](h
 
 ### Elons Map
 
-ELONSMAP is where you can set up location dependent airdrops for Dogecoin, Dogecoin NFT and other Doge assets.  
+DogecoinMap is where you can set up location dependent airdrops for Dogecoin, Dogecoin NFT and other Doge assets.  
 
-[ELONSMAP](https://elonsmap.com/) - Drop Dogecoin and Dogecoin NFT anywhere to do good!
+[DogecoinMap](https://dogecoinmap.com/) - Drop Dogecoin and Dogecoin NFT anywhere to do good!
 
 <center><blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/ACIVnC7GG6">https://t.co/ACIVnC7GG6</a> is live!<br><br>Drop <a href="https://twitter.com/hashtag/Dogecoin?src=hash&amp;ref_src=twsrc%5Etfw">#Dogecoin</a> or Dogecoin NFTs digitally on any physical location. <br><br>Tesla Giga Factory and the SpaceX Development facility drops are waiting to be picked up. <a href="https://twitter.com/search?q=%24DOGE&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$DOGE</a><br><br>Adding <a href="https://twitter.com/search?q=%24XCP&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$XCP</a> <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> support today. <a href="https://t.co/DvM5a0pXpk">pic.twitter.com/DvM5a0pXpk</a></p>&mdash; 265 Ryan (@RyanAvenue) <a href="https://twitter.com/RyanAvenue/status/1524411279389118465?ref_src=twsrc%5Etfw">May 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
