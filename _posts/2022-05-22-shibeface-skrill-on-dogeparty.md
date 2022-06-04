@@ -130,20 +130,20 @@ If you love the cultures surrounding Dogecoin, cryptocurrency, and internet hist
 
 <div class="row">
   <div class="column">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk20_finance-punk.webp">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk5_party-punk.webp">
+    <a href="https://dogeparty.xchain.io/asset/REALDOGEPUNK.20"><img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk20_finance-punk.webp"></a>
+    <a href="https://dogeparty.xchain.io/asset/REALDOGEPUNK.5"><img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk5_party-punk.webp"></a>
   </div>
   <div class="column">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk23_pirate-punk.webp">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk-jesus.webp">
+    <a href="https://dogeparty.xchain.io/asset/REALDOGEPUNK.23"><img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk23_pirate-punk.webp"></a>
+    <a href="https://dogeparty.xchain.io/asset/REALDOGEPUNK.JESUS"><img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-punks/realdogepunk-jesus.webp"></a>
   </div>
   <div class="column">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/Matrix-Doge.webp">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/Pharaoh-Doge.webp">
+    <a href="https://dogeparty.xchain.io/asset/DOGEPIXELS.40"><img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/Matrix-Doge.webp"></a>
+    <a href="https://dogeparty.xchain.io/asset/DOGEPIXELS.59"><img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/Pharaoh-Doge.webp"></a>
   </div>
   <div class="column">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/mcdonalds-doge.webp">
-    <img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/belle-dogephine.webp">
+    <a href="https://dogeparty.xchain.io/asset/DOGEPIXELS.42"><img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/mcdonalds-doge.webp"></a>
+    <a href="https://dogeparty.xchain.io/asset/DOGEPIXELS.41"><img src="{{ site.baseurl }}/assets/images/sfdogeparty/doge-pixels/belle-dogephine.webp"></a>
   </div>
 </div>
 <center><a href="http://doge-punks.com/">Real Doge Punks</a> — <a href="https://dogepixels.io/">Doge Pixels</a></center>
