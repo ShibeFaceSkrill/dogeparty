@@ -8,7 +8,6 @@ hidden: true
 tags: [ Dogeparty, Historical ]
 image: assets/images/top-dogecoin-nft/cover.webp
 permalink: /top-dogecoin-nft-collections/
-date: 06-19-2022
 ---
 
 <p>This article reviews the <a href="#top-nft-collections-on-dogecoin">top NFT collections on Dogecoin</a> facilitated by the <a href="http://dogeparty.net/">Dogeparty protocol</a>. Before we do that we'll go over <a href="#what-is-nft">some semantics</a>, consider how the word NFT is commonly used, and where Dogeparty assets fit across that spectrum.</p> 
@@ -202,7 +201,7 @@ date: 06-19-2022
 
 <p>What follows is a list of the Rare Doge assets that have both the lowest cost and lowest supply, across all Rare Doge. Each of these assets have a quantity of 100 or less, available for under 300 DOGE EA by dispenser.</p>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXU-EyBunhN0oamw50IBGUWOvx4i8VKlssca_U01xwBIgU6Hssij6k_z0J-jtGweK7fo3haUlz-bRf/pubhtml?widget=true&amp;headers=true" height="250" width="100%"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXU-EyBunhN0oamw50IBGUWOvx4i8VKlssca_U01xwBIgU6Hssij6k_z0J-jtGweK7fo3haUlz-bRf/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=true" height="250" width="100%"></iframe>
 <p><center><a href="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/montage.webp"><img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/rare-deals_sm.webp" style="width:100%;"></a><br/><sup><a href="https://raredogedirectory.com">Rare Doge Directory</a></sup></center></p>
 
 <h4>Dank Doge Directory - Doge KVLT - Trippy Tokens</h4>
@@ -242,9 +241,9 @@ date: 06-19-2022
  
 <blockquote><a href="https://dp.university/spacedoges">SPACEDOGES</a> was created by the reboot Dogeparty founders to reward community members. Our mission is to create good, make peoples live better, and happier while promoting Dogeparty and Counterparty protocols and technology.</blockquote>
 
-These Doges each have a supply of shares ranging from 25-3500 each, the most popular of them (<a href="https://dp.university/nft_page/xelon-1633544359739x809994806356928400">XELON</a>) having 207 holders.
+<p>These Doges each have a supply of shares ranging from 25-3500 each, the most popular of them (<a href="https://dp.university/nft_page/xelon-1633544359739x809994806356928400">XELON</a>) having 207 holders.</p>
 
-Since the Dogeparty relaunch, <a href="https://dogeparty.xchain.io/asset/XALAN">XALAN</a>, <a href="https://dogeparty.xchain.io/asset/CHRISTA">CHRISTA</a>, and the <a href="https://dogeparty.xchain.io/asset/SPACEDOGES">SPACEDOGES</a> were the first assets created that have currently open dispensers.
+<p>Since the Dogeparty relaunch, <a href="https://dogeparty.xchain.io/asset/XALAN">XALAN</a>, <a href="https://dogeparty.xchain.io/asset/CHRISTA">CHRISTA</a>, and the <a href="https://dogeparty.xchain.io/asset/SPACEDOGES">SPACEDOGES</a> were the first assets created that have currently open dispensers.</p>
 
 <div class="row justify-content-center">
   <div class="column">
@@ -263,9 +262,8 @@ Since the Dogeparty relaunch, <a href="https://dogeparty.xchain.io/asset/XALAN">
     <a href="https://dogeparty.xchain.io/asset/XEMMA"><img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/spacedoges/XEMMA.webp"></a>
   </div>
 </div>
-<sup><center><a href="https://dp.university/spacedoges/">DogeParty University - SpaceDoges</a></center></sup>
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXKzx-8k-UeQBLooAldTQpZXqGofafMGh3-c4SFguYRNsefLc_YeHClt4LqB6oY2zmsFz1hs3G2R89/pubhtml?widget=true&amp;headers=true" height="250" width="100%"></iframe>
+<p><sup><center><a href="https://dp.university/spacedoges/">DogeParty University - SpaceDoges</a></center></sup></p>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXU-EyBunhN0oamw50IBGUWOvx4i8VKlssca_U01xwBIgU6Hssij6k_z0J-jtGweK7fo3haUlz-bRf/pubhtml?gid=1685729827&amp;single=true&amp;widget=true&amp;headers=true" height="250" width="100%"></iframe>
 
 <h4 id="doge-pixels">Doge Pixels</h4>
 
@@ -279,15 +277,14 @@ Since the Dogeparty relaunch, <a href="https://dogeparty.xchain.io/asset/XALAN">
 
 <p>There are 92 assets across 4 series, visible as subassets under <a href="https://dogeparty.xchain.io/asset/DOGEPIXELS">DOGEPIXELS</a> on XChain, or on the <a href="https://dogepixels.io/">DogePixels website</a>.</p>
 
-<p>The Pixel Doge PFP series' have a supply ranging from 5-15, each. The most popular of them are <a href="https://dogeparty.xchain.io/asset/DOGEPIXELS.43">Santa Doge</a>, having 8 holders, along with <a href="https://dogeparty.xchain.io/asset/DOGEPIXELS.44">Rittenhouse Doge</a> and the <a href="https://dogeparty.xchain.io/asset/DOGEPIXELS.44">Matrix Doge</a> who have 6 holders each.
+<p>The Pixel Doge PFP series' have a supply ranging from 5-15, each. The most popular of them are <a href="https://dogeparty.xchain.io/asset/DOGEPIXELS.43">Santa Doge</a>, having 8 holders, along with <a href="https://dogeparty.xchain.io/asset/DOGEPIXELS.44">Rittenhouse Doge</a> and the <a href="https://dogeparty.xchain.io/asset/DOGEPIXELS.44">Matrix Doge</a> who have 6 holders each.</p>
 
-<img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/dogeparty_dogeNFT_dogepixels.webp ">
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSNcLGa2S2G2ZhHWlFsY4w8CGRVZ1nJiQcJ0LHeFu46rzFMmmgZ5W8KYMcLJOB1FiRWw9t59sna2ope/pubhtml?widget=true&amp;headers=true" height="250" width="100%"></iframe>
+<p><img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/dogeparty_dogeNFT_dogepixels.io.webp ">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXU-EyBunhN0oamw50IBGUWOvx4i8VKlssca_U01xwBIgU6Hssij6k_z0J-jtGweK7fo3haUlz-bRf/pubhtml?gid=1105024207&amp;single=true&amp;widget=true&amp;headers=true" height="250" width="100%"></iframe></p>
 
 <h4 id="doge-punks">Doge Punks</h4>
 
-<a href="http://doge-punks.com/">Dogepunks</a> - Quantity 1 NFT 1\1 Limited (Editioned) - "digital mashup of Doges and the CryptoPunks"
+<a href="http://doge-punks.com/">Dogepunks</a> - Are a single quantity NFT, "digital mashup of Doges and the CryptoPunks." These are the most like your Ethereum PFP collections, in that they are pure NFT only one copy of each token is available.
 
 <img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/dogeparty_dogeNFT_real-doge-punks.webp">
 
