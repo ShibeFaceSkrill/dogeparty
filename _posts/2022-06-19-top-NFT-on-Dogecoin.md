@@ -282,23 +282,108 @@ permalink: /top-dogecoin-nft-collections/
 <p><img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/dogeparty_dogeNFT_dogepixels.io.webp ">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXU-EyBunhN0oamw50IBGUWOvx4i8VKlssca_U01xwBIgU6Hssij6k_z0J-jtGweK7fo3haUlz-bRf/pubhtml?gid=1105024207&amp;single=true&amp;widget=true&amp;headers=true" height="250" width="100%"></iframe></p>
 
-<h4 id="doge-punks">Doge Punks</h4>
+<h4 id="doge-punks">Doge Punks (SOLD OUT)</h4>
 
-<a href="http://doge-punks.com/">Dogepunks</a> - Are a single quantity NFT, "digital mashup of Doges and the CryptoPunks." These are the most like your Ethereum PFP collections, in that they are pure NFT only one copy of each token is available.
+<p>Dogepunks are a single quantity NFT, "digital mashup of Doges and the CryptoPunks." These are the most like your Ethereum PFP collections, in that only one copy of each token is available.</p>
 
-<img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/dogeparty_dogeNFT_real-doge-punks.webp">
+<p>There are currently a total of 33 Dogepunks, visible under the <a href="https://dogeparty.xchain.io/asset/REALDOGEPUNK">REALDOGEPUNK</a> subassets, or on the <a href="http://doge-punks.com/">Doge Punks website</a>.</p>
 
-https://dogeparty.xchain.io/asset/REALDOGEPUNK
+<p><img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/dogeparty_dogeNFT_real-doge-punks.webp">
 
+<p>This is the only project on DogeParty I know of as having completely sold out its initial release, with only 2 of them having open dispensers on the aftermarket. People who purchase these NFT appear reluctant to let them go, so their resale value should be pretty strong.</p>
 
-<h2>Additional Info</h2>
+<h5>DogePunk Open Dispensers</h5>
 
+<ul>
+  <li><a href="https://dogeparty.xchain.io/asset/REALDOGEPUNK.LUDWIGXVI">REALDOGEPUNK.LUDWIGXVI</a> (The Last King of France) for <a href="https://dogeparty.xchain.io/tx/bc576c96d1f36bc9f8ce28ebcd0620d22e9b7b66d55f6d76b7d7c99130346205">750 DOGE</a></li>
+  <li><a href="https://dogeparty.xchain.io/asset/REALDOGEPUNK.26">REALDOGEPUNK.26</a> (The Berliner) for <a href="https://dogeparty.xchain.io/tx/87cc8b0caae2cb301961a0bbe3d513e7cdafb571cd20d3ef43b4669b80d6092c">1000 DOGE</a></li>
+</ul>
 
+<div class="alert alert-warning" role="alert">
+  Disclosure: I bought <b>and</b> listed those Doge Punks.
+</div>
+
+<h2>Conclusion</h2>
+
+<p>Through the research and creation of this article I've been thinking a lot about the supply and issuance of assets, from Dogeparty and beyond. Higher supply makes it easier to run giveaways, promote your project, and encourage trades among the community. Lower supply tokens are easier to invest in and reason about financially.</p>
+
+<h2>LINKS</h2>
+
+<h3>Dogeparty Official</h3>
+
+<ul>
+  <li><a href="https://dogeparty.net/">Website</a></li>
+  <li><a href="https://dogeparty.net/wallets/">Wallets</a></li>
+  <li><a href="https://dogeparty.xchain.io/">Blockchain Explorer</a></li>
+  <li><a href="https://github.com/DogepartyXDP">GitHub</a></li>
+  <li><a href="https://github.com/DogepartyXDP/Documentation">Documentation</a></li>
+  <li><a href="https://dogeparty.net/news/">Dogeparty Foundation News</a></li>
+  <li><a href="https://twitter.com/DogepartyXDP">Twitter</a></li>
+  <li><a href="https://www.reddit.com/r/xdp/">Reddit</a></li>
+  <li><a href="https://t.me/DogepartyXDP">Main Telegram</a></li>
+  <li><a href="https://t.me/XDPShill">Telegram Shill\Giveaways</a></li>
+</ul>
+ 
 <h3>History</h3>
 
 <ul>
-<li><a href="https://thenfttimeline.com/">The NFT Timeline</a> - Discover the full timeline of the NFT history (WIP). Covering 2011 to 2019 historical assets.</li>
-<li><a href="https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf">Dogeparty: NFT meta-layer on top of Dogecoin (Part 1  2014-2016)</li>
-<blockquote>Dogeparty is a meta-layer on top of the Dogecoin (DOGE) network for non-fungible token (NFT).</blockquote>
-<li><a href="https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080">Dogeparty: What has happened since relaunch in fall 2021 (Part 2)</a></li>
-<blockquote>operational in August 2014, went silent in May 2016 and was relaunched in August 2021. This article deals with the period after the relaunch</blockquote>
+  <li><a href="https://thenfttimeline.com/">The NFT Timeline</a> - Discover the full timeline of the NFT history (WIP). Covering 2011 to 2019 historical assets.</li>
+  <li><a href="https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf">Dogeparty: NFT meta-layer on top of Dogecoin (Part 1  2014-2016)</a></li>
+    <blockquote>Dogeparty is a meta-layer on top of the Dogecoin (DOGE) network for non-fungible token (NFT).</blockquote>
+  <li><a href="https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080">Dogeparty: What has happened since relaunch in fall 2021 (Part 2)</a></li>
+    <blockquote>operational in August 2014, went silent in May 2016 and was relaunched in August 2021. This article deals with the period after the relaunch</blockquote>
+  <li><a href="https://dogeparty.net/dogeparty-platform-announcement/">Dogeparty Relaunch</a></li>
+    <blockquote>we are proud to announce the rebooting of the Dogeparty platform! Dogeparty is a smart contract built on top of the Dogecoin (DOGE) network for minting tokens and NFTs.  It was initially launched in August/September 2014.</blockquote>
+  <li><a href="https://dogermint.com/dispensers/">Dogermint</a> - These assets were all minted in the month of August, 2014, less than a year after the launch of the Dogecoin blockchain.</li>
+  <li><a href="https://www.littleshibeog.com/dogeworld">Doge World 2014</a> - The first and only, ever-evolving community-based world, powered by historical 2014 NFT assets and YOU.</li>
+  <li><a href="https://jpjanssen.com/timeline/dogeparty.html">Asset Timeline</a> - from the first asset creation to the first interactive token</li>
+  <li><a href="https://medium.com/@jakegallen/dogeparty-directory-88c949b21072">NFT Directory</a> - early tokens currently in circulation</li>
+</ul>
+
+<h3>Projects</h3>
+<ul>
+  <li><a href="https://www.dogermint.com/">Dogermint</a> - Dogermint tokens + short guide on how to use Dispensers</li>
+  <li><a href="https://raredogedirectory.com/">Rare Doge</a> - Rare Doge collecting cards</li>
+    <ul>
+      <li><a href="http://raredogewallet.com/">Rare Doge Wallet</a></li>
+      <li><a href="http://rarerejectdirectory.com/">Rare Reject Directory</a> - Didn't make it to Rare Doge official, but worth appreciating.</li>
+      <li><a href="https://t.me/RareDogeTraders">Rare Doge Telegram Trading Group</a>.</li>
+      <li><a href="https://t.me/RareDogeAuctions_Giveaways">Telegram Auctions and Giveaways</a></li>
+      <li><a href="https://t.me/RareRejects">RareDoge Rejects Telegram</a> </li>
+    </ul>
+  <li><a href="https://dogepixels.io/">Doge Pixels</a> (<a href="https://t.me/dogepixelschat ">Telegram</a>)</li>
+  <li><a href="https://dogekvlt.com/">Doge KVLT</a> - Like rare doge, but dark. (<a href="https://t.me/dogekvlt">Telegram</a>)</li>
+  <li><a href="https://dp.university/spacedoges">Dogeparty University Space Doges NFT</a> (<a href="https://t.me/spacedoges">Telegram</a>)</li>
+  <li><a href="http://doge-punks.com/">Dogepunks</a> - 1\1 NFT "digital mashup of Doges and the CryptoPunks" (<a href="https://t.me/realdogepunks">Telegram</a>)</li>
+  <li><a href="https://trippytokens.wordpress.com/">Trippy Tokens</a> a community-driven directory of psychedelic and trippy art (<a href="https://t.me/trippytokens">Telegram</a>)</li>
+  <li><a href="https://www.littleshibeog.com/dogeworld">LittleShibe OG - DOGEWORLD</a> - The first and only, ever-evolving community-based world, powered by historical 2014 NFT assets and YOU.</li>
+  <li><a href="https://www.dankdogeclub.com">Dank Doge Club</a> (<a href="https://t.me/raredogeclub">Telegram</a>)</li>
+  <li><a href="https://shibeface.finance/dogeparty">ShibeFaceSkrill</a> (<a href="https://t.me/ShibeFaceSkrill">Telegram</a>)</li>
+</ul>
+
+<h3>Tools</h3>
+<ul>
+  <li><a href="https://dogecoinmap.com/">Dogecoin Map</a> - Drop Dogecoin and Dogecoin NFTs anywhere to do good!</li>
+  <li><a href="https://countercord.github.io/DogeKord.html">DogeKord</a> - Dogecoin and XDP Asset Verification tool for Discord!</li>
+  <ul>
+    <li><a href="https://github.com/CounterCord/CounterCord/">GitHub</a></li> 
+    <li><a href="https://www.youtube.com/watch?v=VCzCiDtSI_c/">Video</a></li>
+  </ul>
+  <li>Emblem Vaults: (just change Bitcoin to Dogecoin and XCP for XDP)</li>
+  <ul>
+    <li><a href="https://youtu.be/S4gNPzLunjA?t=614">Video: How to move RARE PEPE cards from XCP to ETH with Emblem Vault</a></li> 
+    <li><a href="https://desktopcommando.medium.com/trading-xcp-nfts-on-ethereum-matic-networks-87a89101fd58">Text: Trading XCP NFTs on Ethereum Virtual Machine (EVM) Networks</a></li>
+  </ul>
+  <li><a href="https://github.com/Jpja/XCP-Asset-Timeline">Asset Timeline</a> - Lookup an asset to show a timeline specific to that asset.</li>
+  <li><a href="https://github.com/Jpja/XDP-Image-Archive">Image Archive</a> - Downloads all images from Dogeparty. (<a href="https://www.youtube.com/watch?v=gqF6zhgrpUU">Youtube Video</a>)</li>
+  <li><a href="https://easyasset.art/">EasyAsset</a> - Store your NFT art and JSON on the Arweave Permaweb. Upload your art permanently.</li>
+</ul>
+
+<h3>Development</h3>
+<ul>
+  <li><a href="https://github.com/DogepartyXDP/">GitHub</a></li>
+  <li><a href="https://dogeparty.net/api/">API Info</a></li>
+  <li><a href="https://dogeparty.xchain.io/api">API</a></li>
+  <li><a href="https://sites.google.com/view/doggfather/other-contributions/dp-node">Node HowTo</a></li>
+  <li><a href="https://t.me/dphackathon">Dogeparty Hackathon</a></li>
+</ul>
