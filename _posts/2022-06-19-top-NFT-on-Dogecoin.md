@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What are the top NFT collections on Dogecoin?"
+title:  "The Top NFT Collections Native to the Dogecoin blockchain"
 author: face
 featured: false
 hidden: true
@@ -60,13 +60,15 @@ permalink: /top-dogecoin-nft-collections/
 
 <p>Counterparty's initial "investors" burned Bitcoin in exchange for its native currency <a href="https://www.coingecko.com/en/coins/counterparty">XCP</a>, as an alternative to ICO schemes where founders must be trusted to manage investor funds towards developing the platform.</p>
 
-<p><a href="https://en.bitcoin.it/wiki/Proof_of_burn">Proof of Burn</a> is actually quite selfless act on part of the development team, resulting in a community driven economy.</p>
+<p><a href="https://en.bitcoin.it/wiki/Proof_of_burn">Proof of Burn</a> is actually quite selfless act on part of the development team, resulting in a community driven economy. The downside is that the team doesn't have funding for development and maintenance of the protocol.</p>
 
 <p>Dogeparty was introduced, shortly afterwards (also by Proof of Burn) as a haven for those seeking avoid, then costly, Bitcoin transaction fees.</p>
 
 <p>The first assets with images on the dogecoin blockchain were <a href="https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf">minted in August 2014</a> and the platform fell into disuse in 2016, not developing as wide of use vs Bitcoin's Counterparty.</p>
 
-<p>In response to the explosion of both the Dogecoin community, and in interest in NFTs, <a href="https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080">Dogeparty was relaunched in August 2021</a>. It has a vibrant, supportive, community, many of whom were attracted by the historical assets, some have been Dogecoiners since the beginning.</p>
+<p>In response to the explosion of both the Dogecoin community, and in interest in NFTs, <a href="https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080">Dogeparty was relaunched in August 2021</a>. This time, by "Proof of Bern", where users contribute funds in exchange for <a href="https://dogeparty.xchain.io/asset/XDP">XDP</a>. Except this time the DOGE was't burned but saved to support development of the platform.</p>
+
+<p><a href="https://dogeparty.xchain.io/asset/XDP">XDP</a> has a current market cap of $1,044,142.70, with a token supply of 3,071,007 (though much of that supply is likely locked in wallets whose owners lost the keys). Dogeparty has a vibrant, supportive, community, many of whom were attracted by the historical assets, some have been Dogecoiners since the beginning.</p>
 
 <h2 id="#dispensers-how-they-work">How do Dispensers work on Dogeparty</h2>
 
@@ -107,13 +109,13 @@ permalink: /top-dogecoin-nft-collections/
 
 <p>Of the historical assets minted on dogeparty, 65 of them have open <a href="https://dogermint.com/dispensers/#what-is-a-dispenser">dispensers</a> and are available for purchase. Among those <b>available on Dogecoin</b> thru Dogeparty dispensers, 29 have images.</p>
 
-<p><a href="https://dogeparty.xchain.io/asset/ROSSULBRICHT">ROSSULBRICHT</a> appears to be the earliest, indivisible, single-quantity NFT on Dogecoin, <a href="https://dogeparty.xchain.io/tx/36fdf79abca95e109d6a11a13e29402e19df40bfad0dd1f090e9b47847323c8b">currently available by dispenser</a> for 227,272.72 DOGE. It has no image, and the supply is locked so no more may be issued.</p>
+<p><a href="https://dogeparty.xchain.io/asset/ROSSULBRICHT">ROSSULBRICHT</a> appears to be the earliest, indivisible, supply of 1, NFT on Dogecoin currently available by dispenser (<a href="https://dogeparty.xchain.io/tx/36fdf79abca95e109d6a11a13e29402e19df40bfad0dd1f090e9b47847323c8b">for 227,272.72 DOGE</a>). It has no image, and the supply is locked so no more may be issued.</p>
 
 <p>Among historical assets on dogeparty that currently have open dispensers, there are 500 unique addresses who have purchased those tokens, and among them <a href="https://dogeparty.xchain.io/asset/COUNTERDOGE">COUNTERDOGE</a> has the most, with a total of 351, holders.</p>
 
 <p><center><a href="{{ site.baseurl }}/assets/images/top-dogecoin-nft/historical/dogeparty-historical-assets_large.webp"><img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/historical/dogeparty-historical-assets.webp" style="width:100%;"></a></center></p>
 
-<p>The biggest collection of <b>historical assets on Dogecoin</b> Dogeparty is released by <a href="https://www.dogermint.com/">Dogermint</a>, who has issued a <a href="https://dogermint.com/dispensers/">historical asset starter pack</a> dispensing 133 Dogeparty assets, for 1000 DOGE.</p>
+<p>The biggest collection of <b>historical assets on Dogecoin's Dogeparty</b> is released by <a href="https://www.dogermint.com/">Dogermint</a>, who has issued a <a href="https://dogermint.com/dispensers/">historical asset starter pack</a> dispensing 133 Dogeparty assets, for 1000 DOGE.</p>
 
 <b><a href="https://dogeparty.xchain.io/tx/dd5cf045064245c7c63b6bedfbefd7a978f93ffd3e05e41b208e10a153bfc928">Dogermint Starter Pack - 1000 Doge</a></b>
 <ul>
@@ -309,7 +311,7 @@ permalink: /top-dogecoin-nft-collections/
 
 <h2>LINKS</h2>
 
-<h3>Dogeparty Official</h3>
+<h3>Dogeparty</h3>
 
 <ul>
   <li><a href="https://dogeparty.net/">Website</a></li>
@@ -322,6 +324,7 @@ permalink: /top-dogecoin-nft-collections/
   <li><a href="https://www.reddit.com/r/xdp/">Reddit</a></li>
   <li><a href="https://t.me/DogepartyXDP">Main Telegram</a></li>
   <li><a href="https://t.me/XDPShill">Telegram Shill\Giveaways</a></li>
+  <li><a href="https://dogermint.com/dogeparty/"><b>How to Use Dogeparty: A Complete Guide</b></a></li>
 </ul>
  
 <h3>History</h3>
@@ -342,7 +345,9 @@ permalink: /top-dogecoin-nft-collections/
 
 <h3>Projects</h3>
 <ul>
-  <li><a href="https://www.dogermint.com/">Dogermint</a> - Dogermint tokens + short guide on how to use Dispensers</li>
+  <li><a href="https://www.dogermint.com/">Dogermint</a> Historical Tokens</li>
+  <ul>
+    <li><a href="https://dogermint.com/dogeparty/">How to Use Dogeparty: A Complete Guide</a></li>
   <li><a href="https://raredogedirectory.com/">Rare Doge</a> - Rare Doge collecting cards</li>
     <ul>
       <li><a href="http://raredogewallet.com/">Rare Doge Wallet</a></li>
