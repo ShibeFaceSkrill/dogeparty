@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Top NFT Collections Native to the Dogecoin blockchain"
+title:  "What are the Top NFT Collections Native to the Dogecoin blockchain?"
 author: face
 featured: false
 hidden: true
