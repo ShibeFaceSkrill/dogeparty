@@ -15,9 +15,9 @@ permalink: /top-dogecoin-nft-collections/
 <p>Before we move onto the top collections, we'll quickly review <a href="#nft-on-dogecoin">history of Dogeparty</a>, and <b>how to buy Dogecoin NFT</b> using <a href="#dispensers-how-they-work">Dogeparty dispensers</a>.</p>
 
 <div class="alert alert-warning" role="alert">
-  The following is my personal analysis of the NFT minted on the Dogecoin blockchain. It should not be construed as investment advice. Take any investment decisions at your own risk.<br><br>
+  The following is my personal analysis of the NFT minted on the Dogecoin blockchain. It should not be construed as investment advice. Invest based on this information at your own risk. DYOR!<br><br>
 
-  Full disclosure, I have purchased around $250USD, worth of Dogeparty assets, some of which are included among the collections featured in this article. See also: <u><a href="https://dogeparty.xchain.io/address/DH1293j9GQeDwuKBJkDpdWRX5YGEWw2JBY">ShibeFaceSkrill Dogeparty Treasury</a></u>.
+  Disclosure, I have purchased around $250USD, worth of Dogeparty assets, some of which are included among the collections (and dispensers where noted) featured in this article. <b>See also</b>: <u><a href="https://dogeparty.xchain.io/address/DH1293j9GQeDwuKBJkDpdWRX5YGEWw2JBY">ShibeFaceSkrill Treasury</a></u>.
 </div>
 
 <h2>Contents</h2>
