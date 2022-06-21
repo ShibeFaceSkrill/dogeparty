@@ -311,9 +311,9 @@ permalink: /top-dogecoin-nft-collections/
 
 <p>Through the research and creation of this article I've been thinking a lot about the supply and issuance of assets, from Dogeparty and beyond. Higher supply makes it easier to run giveaways, promote your project, and encourage trades among the community. Lower supply tokens are easier to invest in and reason about financially.</p>
 
-<p>Reviewing these collections and getting the birdge eye view of Dogeparty, I'm really excited about the upcoming projects to improve the UX for asset and open dispenser discovery.</p>
+<p>Reviewing these collections and getting the birde-eye view of Dogeparty, I'm really excited about the upcoming projects to improve the UX for asset and open dispenser discovery.</p>
 
-<p>Even though it's a historical protocol, Dogeparty still is still under-developed and under-utilized in many ways. There is a lot of room for growth and it feels like somewhere you can still get in at the bottom.</p>
+<p>Even though it's a historical protocol, Dogeparty is still quite young in many ways. There is a lot of room for growth and it feels I'm still getting in at the beginning.</p>
 
 <p>I personally believe so much in this platform that I've begun to re-cast the ShibeFaceSkrill roadmap to spend a lot more time working with the Dogeparty community before venturing to other chains.</p>
 
