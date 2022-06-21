@@ -329,6 +329,7 @@ permalink: /top-dogecoin-nft-collections/
   <li><a href="https://t.me/DogepartyXDP">Main Telegram</a></li>
   <li><a href="https://t.me/XDPShill">Telegram Shill\Giveaways</a></li>
   <li><a href="https://dogermint.com/dogeparty/"><b>How to Use Dogeparty: A Complete Guide</b></a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1K-QILius6sJNX7GDwadAMY8fDNeEobkt1SjI3kOHk9E/edit#gid=1569056709"><b>Top Dogecoin NFT Workbook - GoogleSheets</b></a></li>  
 </ul>
  
 <h3>History</h3>
