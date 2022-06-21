@@ -66,7 +66,7 @@ permalink: /top-dogecoin-nft-collections/
 
 <p>The first assets with images on the dogecoin blockchain were <a href="https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf">minted in August 2014</a> and the platform fell into disuse in 2016, not developing as wide of use vs Bitcoin's Counterparty.</p>
 
-<p>In response to the explosion of both the Dogecoin community, and in interest in NFTs, <a href="https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080">Dogeparty was relaunched in August 2021</a>. This time, by "Proof of Bern", where users contribute funds in exchange for <a href="https://dogeparty.xchain.io/asset/XDP">XDP</a>. Except this time the DOGE was't burned but saved to support development of the platform.</p>
+<p>In response to the explosion of both the Dogecoin community, and in interest in NFTs, <a href="https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080">Dogeparty was relaunched in August 2021</a>. This time, by "Proof of Bern", where users contribute funds in exchange for <a href="https://dogeparty.xchain.io/asset/XDP">XDP</a>. Except this time the DOGE wasn't burned but saved to support development of the platform.</p>
 
 <p><a href="https://dogeparty.xchain.io/asset/XDP">XDP</a> has a current market cap of $1,044,142.70, with a token supply of 3,071,007 (though much of that supply is likely locked in wallets whose owners lost the keys). Dogeparty has a vibrant, supportive, community, many of whom were attracted by the historical assets, some have been Dogecoiners since the beginning.</p>
 
@@ -82,7 +82,9 @@ permalink: /top-dogecoin-nft-collections/
 
 <p>To create your own dispensers, and otherwise interact with the Dogeparty assets on Dogecoin, you must use the <a href="https://github.com/DogepartyXDP/dogewallet-desktop/releases">Doge Wallet Desktop</a>, or <a href="https://wallet.dogeparty.net/">Web Wallet</a>.</p>
 
-<p>As you can see, <b>Dogeparty doesn't exactly have a marketplace like OpenSea</b>, yet. For now, if you want to purchase assets, you have to know what you are looking for.</p><p><b>This is one of the problems that ShibeFaceSkrill plans to help solve</b>, creating marketplace to easier track open dispensers on popular collections. This will make it easier for buyers seeking alpha, and open up the resale market.</p>
+<p>As you can see, <b>Dogeparty doesn't exactly have a marketplace like OpenSea</b>, yet. For now, if you want to purchase assets, you have to know what you are looking for.</p>
+
+<p>This challenge in discovery of Dogeparty assets is a problem that ShibeFaceSkrill hopes to help solve</b> by creating a marketplace where its easier to track open dispensers for popular collections. This will make it easier, for buyers and traders seeking alpha, to find open dispensers support price discovery and a robust resale market.</p>
 
 <h2 id="top-nft-collections-on-dogecoin">Top NFT Collections on Dogecoin</h2>
 
