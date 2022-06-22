@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "What are the Top NFT Collections Native to the Dogecoin blockchain?"
+description: "This article reviews the top NFT collections on Dogecoin facilitated by the Dogeparty protocol. There collections fall across three main categories: Historical (2014-2016), Trading Card Style, and Profile Pic."
 author: face
-featured: false
+featured: true
 hidden: true
 #categories: [ when needed ]
 tags: [ Dogeparty, Historical ]
@@ -46,11 +47,11 @@ permalink: /top-dogecoin-nft-collections/
 
 <p>There are also "<a href="https://github.com/stacks-network/stacks-blockchain/issues/2839">semi-fungible</a>" assets, popularized by the <a href="https://eips.ethereum.org/EIPS/eip-1155">ERC 1155</a> contract and most commonly used for game-items.</p>
 
-<p><b>While all of these crypto-collectibles don't fall under the strictest classification of NFT, all of them fall under the broader colloquial usage of the term: crypto-assets containing reference to image metadata.</b></p>
+<p><b>While all of these crypto-collectibles don't fall under the strictest classification of NFT, all of them do fall under the broader colloquial usage of the term: crypto-assets containing reference to image metadata.</b></p>
 
 <h2 id="nft-on-dogecoin">NFTs on Dogecoin?</h2>
 
-<b>What? NFT on DOGECOIN? How can it be true!?!?!</b>
+<b>What? NFT on DOGECOIN? How can it be?!?!</b>
 
 <p><center><a href="https://twitter.com/w3b_eth/status/1530106334712037379/photo/1"><img class="img-responsive img-rounded img-fluid" src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/historical/W3B-NFT_24-Hour-Clock_history-of-nft.webp" style="width:75%;"></a><br></center></p>
 
@@ -85,6 +86,10 @@ permalink: /top-dogecoin-nft-collections/
 <p>As you can see, <b>Dogeparty doesn't exactly have a marketplace like OpenSea</b>, yet. For now, if you want to purchase assets, you have to know what you are looking for.</p>
 
 <p>This challenge in discovery of Dogeparty assets is a problem that ShibeFaceSkrill hopes to help solve</b> by creating a marketplace where its easier to track open dispensers for popular collections. This will make it easier, for buyers and traders seeking alpha, to find open dispensers support price discovery and a robust resale market.</p>
+
+<ul>
+  <li><a href="https://dogermint.com/dogeparty/#6"><b>How to Use Dogeparty: A Complete Guide — Dispensers</b></li>
+</ul>
 
 <h2 id="top-nft-collections-on-dogecoin">Top NFT Collections on Dogecoin</h2>
 
@@ -315,12 +320,12 @@ permalink: /top-dogecoin-nft-collections/
 
 <p>Even though it's a historical protocol, Dogeparty is still quite young in many ways. There is a lot of room for growth and it feels I'm still getting in at the beginning.</p>
 
-<p>I personally believe so much in this platform that I've begun to re-cast the ShibeFaceSkrill roadmap to spend a lot more time working with the Dogeparty community before venturing to other chains.</p>
+<p>I've even begun re-imagining the ShibeFaceSkrill roadmap to spend a lot more time working with the Dogeparty community before venturing to other chains. This is simply the most interesting project to me, where I can see my skills put to some wholesome web3 that puts power into the hands of everyshibe</p>
 
 <h2>LINKS</h2>
-
 <h3>Dogeparty</h3>
 
+<p>
 <ul>
   <li><a href="https://dogeparty.net/">Website</a></li>
   <li><a href="https://dogeparty.net/wallets/">Wallets</a></li>
@@ -335,9 +340,11 @@ permalink: /top-dogecoin-nft-collections/
   <li><a href="https://dogermint.com/dogeparty/"><b>How to Use Dogeparty: A Complete Guide</b></a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1K-QILius6sJNX7GDwadAMY8fDNeEobkt1SjI3kOHk9E/edit#gid=1569056709"><b>Top Dogecoin NFT — Open Dispensers Workbook — GoogleSheets</b></a></li>  
 </ul>
- 
+</p>
+
 <h3>History</h3>
 
+<p>
 <ul>
   <li><a href="https://thenfttimeline.com/">The NFT Timeline</a> - Discover the full timeline of the NFT history (WIP). Covering 2011 to 2019 historical assets.</li>
   <li><a href="https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf">Dogeparty: NFT meta-layer on top of Dogecoin (Part 1  2014-2016)</a></li>
@@ -351,12 +358,16 @@ permalink: /top-dogecoin-nft-collections/
   <li><a href="https://jpjanssen.com/timeline/dogeparty.html">Asset Timeline</a> - from the first asset creation to the first interactive token</li>
   <li><a href="https://medium.com/@jakegallen/dogeparty-directory-88c949b21072">NFT Directory</a> - early tokens currently in circulation</li>
 </ul>
+</p>
 
 <h3>Projects</h3>
+
+<p>
 <ul>
   <li><a href="https://www.dogermint.com/">Dogermint</a> Historical Tokens</li>
   <ul>
     <li><a href="https://dogermint.com/dogeparty/">How to Use Dogeparty: A Complete Guide</a></li>
+  </ul>
   <li><a href="https://raredogedirectory.com/">Rare Doge</a> - Rare Doge collecting cards</li>
     <ul>
       <li><a href="http://raredogewallet.com/">Rare Doge Wallet</a></li>
@@ -374,8 +385,10 @@ permalink: /top-dogecoin-nft-collections/
   <li><a href="https://www.dankdogeclub.com">Dank Doge Club</a> (<a href="https://t.me/raredogeclub">Telegram</a>)</li>
   <li><a href="https://shibeface.finance/dogeparty">ShibeFaceSkrill</a> (<a href="https://t.me/ShibeFaceSkrill">Telegram</a>)</li>
 </ul>
+</p>
 
 <h3>Tools</h3>
+<p>
 <ul>
   <li><a href="https://dogecoinmap.com/">Dogecoin Map</a> - Drop Dogecoin and Dogecoin NFTs anywhere to do good!</li>
   <li><a href="https://countercord.github.io/DogeKord.html">DogeKord</a> - Dogecoin and XDP Asset Verification tool for Discord!</li>
@@ -383,17 +396,23 @@ permalink: /top-dogecoin-nft-collections/
     <li><a href="https://github.com/CounterCord/CounterCord/">GitHub</a></li> 
     <li><a href="https://www.youtube.com/watch?v=VCzCiDtSI_c/">Video</a></li>
   </ul>
-  <li>Emblem Vaults: (just change Bitcoin to Dogecoin and XCP for XDP)</li>
+  <li><a href="https://circuitsofvalue.com/">Emblem Vaults</a></li>
   <ul>
-    <li><a href="https://youtu.be/S4gNPzLunjA?t=614">Video: How to move RARE PEPE cards from XCP to ETH with Emblem Vault</a></li> 
-    <li><a href="https://desktopcommando.medium.com/trading-xcp-nfts-on-ethereum-matic-networks-87a89101fd58">Text: Trading XCP NFTs on Ethereum Virtual Machine (EVM) Networks</a></li>
+    <li><a href="https://opensea.io/collection/emblem-vault?search[sortAscending]=false&search[sortBy]=FAVORITE_COUNT&search[stringTraits][0][name]=XDP&search[stringTraits][0][values][0]=All%20XDP">Dogeparty Assets in Emblem Vault on Opensea</a></li>
+    <li>For the following guides, just change the words Bitcoin to Dogecoin and XCP for XDP</li>
+    <ul>
+      <li><a href="https://youtu.be/S4gNPzLunjA?t=614">Video: How to move RARE PEPE cards from XCP to ETH with Emblem Vault</a></li> 
+      <li><a href="https://desktopcommando.medium.com/trading-xcp-nfts-on-ethereum-matic-networks-87a89101fd58">Text: Trading XCP NFTs on Ethereum Virtual Machine (EVM) Networks</a></li>
+    </ul>
   </ul>
   <li><a href="https://github.com/Jpja/XCP-Asset-Timeline">Asset Timeline</a> - Lookup an asset to show a timeline specific to that asset.</li>
   <li><a href="https://github.com/Jpja/XDP-Image-Archive">Image Archive</a> - Downloads all images from Dogeparty. (<a href="https://www.youtube.com/watch?v=gqF6zhgrpUU">Youtube Video</a>)</li>
   <li><a href="https://easyasset.art/">EasyAsset</a> - Store your NFT art and JSON on the Arweave Permaweb. Upload your art permanently.</li>
 </ul>
+</p>
 
 <h3>Development</h3>
+<p>
 <ul>
   <li><a href="https://github.com/DogepartyXDP/">GitHub</a></li>
   <li><a href="https://dogeparty.net/api/">API Info</a></li>
@@ -401,3 +420,4 @@ permalink: /top-dogecoin-nft-collections/
   <li><a href="https://sites.google.com/view/doggfather/other-contributions/dp-node">Node HowTo</a></li>
   <li><a href="https://t.me/dphackathon">Dogeparty Hackathon</a></li>
 </ul>
+</p>
