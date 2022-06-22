@@ -47,7 +47,7 @@ permalink: /top-dogecoin-nft-collections/
 
 <p>There are also "<a href="https://github.com/stacks-network/stacks-blockchain/issues/2839">semi-fungible</a>" assets, popularized by the <a href="https://eips.ethereum.org/EIPS/eip-1155">ERC 1155</a> contract and most commonly used for game-items.</p>
 
-<p><b>While all of these crypto-collectibles don't fall under the strictest classification of NFT, all of them do fall under the broader colloquial usage of the term: crypto-assets containing reference to image metadata.</b></p>
+<p><b>While all of these crypto-collectibles don't fall under the strictest classification of NFT, all of them do fall under the broader colloquial usage of the term: <em>crypto-assets containing reference to image metadata.</em></b></p>
 
 <h2 id="nft-on-dogecoin">NFTs on Dogecoin?</h2>
 
