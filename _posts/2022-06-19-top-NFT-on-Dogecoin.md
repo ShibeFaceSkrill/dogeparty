@@ -89,7 +89,7 @@ date: 2022-06-22
 <p><b>This challenge in discovery of Dogeparty assets is a problem that ShibeFaceSkrill hopes to help solve</b> by creating a marketplace where its easier to track open dispensers for popular collections. This will make it easier, for buyers and traders seeking alpha, to find open dispensers support price discovery and a robust resale market.</p>
 
 <ul>
-  <li><a href="https://dogermint.com/dogeparty/#6"><b>How to Use Dogeparty: A Complete Guide — Dispensers</b></li>
+  <li><a href="https://dogermint.com/dogeparty/#6"><b>How to Use Dogeparty: A Complete Guide — Dispensers</b></a></li>
 </ul>
 
 <h2 id="top-nft-collections-on-dogecoin">Top NFT Collections on Dogecoin</h2>
@@ -113,7 +113,7 @@ date: 2022-06-22
 <p>For each of the collections in this guide, I made a spreadsheet of open dispensers, including holder data and some other info. This can give you a quick overview of the market for each asset and help you find more of your favorites.</p>
 
 <ul>
-  <li><a href="https://docs.google.com/spreadsheets/d/1K-QILius6sJNX7GDwadAMY8fDNeEobkt1SjI3kOHk9E/edit#gid=1569056709"><b>Top Dogecoin NFTs - Dispenser Data Worksheets</b></a> (lots of alpha here.)</li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1K-QILius6sJNX7GDwadAMY8fDNeEobkt1SjI3kOHk9E/edit#gid=1569056709"><b>Top Dogecoin NFTs - Dispenser Data Worksheets</b></a> (alpha)</li>
 </ul>
 
 <h3 id="historical">Dogecoin Historical Assets</h3>
@@ -143,6 +143,7 @@ date: 2022-06-22
 
 <p>Another historical multi-pack dispenser was recently opened by <a href="https://www.vaje.art/">NYZBlossom</a>.</p>
 
+<p>
 <b><a href="https://dogeparty.xchain.io/address/D99C1KTb4x8qHwyiGbksjtzzov3tRE3jwQ">Nyzblossom's Historical Special - 190 DOGE</a></b>
 <ul>
     <li>01 <a href="https://dogeparty.xchain.io/asset/WEBCOIN">WEBCOIN</a></li>
@@ -153,6 +154,7 @@ date: 2022-06-22
     <li>01 <a href="https://dogeparty.xchain.io/asset/DODGERDOGE">DODGERDOGE</a></li>
     <li>20 <a href="https://dogeparty.xchain.io/asset/COUNTERDOGE">COUNTERDOGE</a></li>
 </ul>
+</p>
 
 <div class="alert alert-warning" role="alert">
   <p>Note: This address has the following dispensers set on it. If you go to <a href="https://dogeparty.xchain.io/address/D99C1KTb4x8qHwyiGbksjtzzov3tRE3jwQ"><u>this address</u></a> and click dispensers, you can verify each of the assets is set to dispense for 190 DOGE, and so they will all dispense for that price. (NOT FROM AN EXCHANGE WALLET)</p>
