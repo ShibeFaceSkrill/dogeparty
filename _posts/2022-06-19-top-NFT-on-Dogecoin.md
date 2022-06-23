@@ -308,6 +308,8 @@ date: 2022-06-22
 
 <p>There are currently a total of 33 Dogepunks, visible under the <a href="https://dogeparty.xchain.io/asset/REALDOGEPUNK">REALDOGEPUNK</a> subassets, or on the <a href="http://doge-punks.com/">Doge Punks website</a>.</p>
 
+<p>Each DogePunk originally sold for 200-1000 Dogecoin, with an average cost of 593.75 DOGE</p>
+
 <p><img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/dogeparty_dogeNFT_real-doge-punks.webp">
 
 <p>This is the only project on DogeParty I know of as having completely sold out its initial release, with only 2 of them having open dispensers on the aftermarket. People who purchase these NFT appear reluctant to let them go, so their resale value should be pretty strong.</p>
@@ -320,7 +322,7 @@ date: 2022-06-22
 </ul>
 
 <div class="alert alert-warning" role="alert">
-  Disclosure: I bought <b>and</b> listed those Doge Punks.
+  Disclosure: I bought out the remaining few and listed these Doge Punk Dispensers.
 </div>
 
 <h2>Conclusion</h2>
