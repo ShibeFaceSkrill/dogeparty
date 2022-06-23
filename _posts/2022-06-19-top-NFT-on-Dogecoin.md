@@ -156,11 +156,13 @@ date: 2022-06-22
 </ul>
 </p>
 
+<p>
 <div class="alert alert-warning" role="alert">
   <p>Note: This address has the following dispensers set on it. If you go to <a href="https://dogeparty.xchain.io/address/D99C1KTb4x8qHwyiGbksjtzzov3tRE3jwQ"><u>this address</u></a> and click dispensers, you can verify each of the assets is set to dispense for 190 DOGE, and so they will all dispense for that price. (NOT FROM AN EXCHANGE WALLET)</p>
 
   <p><b>TLDR: Send 190 DOGE to <code>D99C1KTb4x8qHwyiGbksjtzzov3tRE3jwQ</code> <em>only once</em> to receive all assets.</b></p>
 </div>
+</p>
 
 <a href="https://dogeparty.xchain.io/address/D99C1KTb4x8qHwyiGbksjtzzov3tRE3jwQ"><img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/historical/nyzblossom-dispenser.webp" style="width:100%;"></a><br>
 
@@ -291,7 +293,7 @@ date: 2022-06-22
 
 <p><center><a href="https://dogepixels.io/project-type/sticker-series-1/"><img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/doge-pixels-sticker-pack.webp" width="75%"></a></center></p>
 
-<p><b>Then I discovered those images are actually dogeparty assets!</b></p>
+<p><b>Then I discovered those emoij are actually dogeparty assets!</b></p>
 
 <p>There are 92 assets across 4 series, visible as subassets under <a href="https://dogeparty.xchain.io/asset/DOGEPIXELS">DOGEPIXELS</a> on XChain, or on the <a href="https://dogepixels.io/">DogePixels website</a>.</p>
 
