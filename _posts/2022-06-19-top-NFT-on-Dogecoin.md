@@ -86,7 +86,7 @@ date: 06-22-2022
 
 <p>As you can see, <b>Dogeparty doesn't exactly have a marketplace like OpenSea</b>, yet. For now, if you want to purchase assets, you have to know what you are looking for.</p>
 
-<p>This challenge in discovery of Dogeparty assets is a problem that ShibeFaceSkrill hopes to help solve</b> by creating a marketplace where its easier to track open dispensers for popular collections. This will make it easier, for buyers and traders seeking alpha, to find open dispensers support price discovery and a robust resale market.</p>
+<p><b>This challenge in discovery of Dogeparty assets is a problem that ShibeFaceSkrill hopes to help solve</b> by creating a marketplace where its easier to track open dispensers for popular collections. This will make it easier, for buyers and traders seeking alpha, to find open dispensers support price discovery and a robust resale market.</p>
 
 <ul>
   <li><a href="https://dogermint.com/dogeparty/#6"><b>How to Use Dogeparty: A Complete Guide — Dispensers</b></li>
