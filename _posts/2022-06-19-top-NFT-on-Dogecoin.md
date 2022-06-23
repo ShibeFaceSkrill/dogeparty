@@ -9,7 +9,7 @@ hidden: true
 tags: [ Dogeparty, Historical ]
 image: assets/images/top-dogecoin-nft/cover.webp
 permalink: /top-dogecoin-nft-collections/
-date: 06-22-2022
+date: 2022-06-22
 ---
 
 <p>This article reviews the <a href="#top-nft-collections-on-dogecoin">top NFT collections on Dogecoin</a> facilitated by the <a href="http://dogeparty.net/">Dogeparty protocol</a>. Before we do that we'll go over <a href="#what-is-nft">some semantics</a>, consider how the word NFT is commonly used, and where Dogeparty assets fit across that spectrum.</p> 
