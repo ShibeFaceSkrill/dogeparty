@@ -245,10 +245,6 @@ Dogeparty is just getting back on its feet after some years in hibernation. It's
 - [Dogeparty: What has happened since relaunch in fall 2021 (Part 2)](https://doggfather.medium.com/dogeparty-what-has-happened-since-relaunch-in-fall-2021-part-2-47a324303080) 
   > operational in August 2014, went silent in May 2016 and was relaunched in August 2021. This article deals with the period after the relaunch
 
-## Join our community!
-
-<p class="mb-5"><a  href="https://discord.gg/56J85Kk32m"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/join-discord.webp" alt="Join us on Discord" /></a></p>
-
 ---
 
 * Cover image background by [Aditya Chinchure](https://unsplash.com/photos/ZhQCZjr9fHo)
