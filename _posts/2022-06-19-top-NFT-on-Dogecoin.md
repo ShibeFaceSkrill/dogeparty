@@ -312,7 +312,9 @@ date: 2022-06-22
 
 <p><img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/dogeparty_dogeNFT_real-doge-punks.webp">
 
-<p>This is the only project on DogeParty I know of as having completely sold out its initial release, with only 2 of them having open dispensers on the aftermarket. People who purchase these NFT appear reluctant to let them go, so their resale value should be pretty strong.</p>
+<p>While the artist is not entirely finished creating arts for the collection, this is the only project on DogeParty I know of as having completely sold out its initial release. When asked, the artist <a href="https://twitter.com/Mandarinemarie_">@Marie</a> said there will be an upper limit of 200 Doge Punks, ever created in total, but likely closer to 100.</p> 
+
+<p>Currently only 2 of them have open dispensers on the aftermarket. People who purchase these NFT appear reluctant to let them go, so their resale value should be pretty strong.</p>
 
 <h5>DogePunk Open Dispensers</h5>
 
