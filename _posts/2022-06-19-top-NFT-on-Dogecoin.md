@@ -109,6 +109,12 @@ permalink: /top-dogecoin-nft-collections/
 
 <p>On the other-hand, the <b>PFP collections</b> have the closest resemblance to what the world has come to think of as NFT, and are likely to have the strongest appeal to NFT collectors coming over from collecting ETH NFT on OpenSea.</p>
 
+<p>For each of the collections in this guide, I made a spreadsheet of open dispensers, including holder data and some other info. This can give you a quick overview of the market for each asset and help you find more of your favorites.</p>
+
+<ul>
+  <li><a href="https://docs.google.com/spreadsheets/d/1K-QILius6sJNX7GDwadAMY8fDNeEobkt1SjI3kOHk9E/edit#gid=1569056709"><b>Top Dogecoin NFTs - Dispenser Data Worksheets<b></a> (lots of alpha here.)</li>
+</ul>
+
 <h3 id="historical">Dogecoin Historical Assets</h3>
 
 <center><a href="https://twitter.com/WRabbit1111/status/1520046749637017602/photo/1"><img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/historical/digital-antiquities_2011-2017_WRabbit1111.webp" style="width:75%;"></a><br>
