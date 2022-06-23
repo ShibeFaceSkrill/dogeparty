@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What are the Top NFT Collections Native to the Dogecoin blockchain?"
-description: "This article reviews the top NFT collections on Dogecoin facilitated by the Dogeparty protocol. There collections fall across three main categories: Historical (2014-2016), Trading Card Style, and Profile Pic."
+description: "A review of the top NFT collections on Dogecoin facilitated by the Dogeparty protocol. The collections fall across three main categories: Historical (2014-2016), Trading Card Style, and Profile Pic."
 author: face
 featured: true
 hidden: true
