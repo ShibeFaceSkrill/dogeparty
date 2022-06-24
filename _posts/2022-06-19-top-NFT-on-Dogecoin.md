@@ -113,7 +113,7 @@ date: 2022-06-22
 <p>For each of the collections in this guide, I made a spreadsheet of open dispensers, including holder data and some other info. This can give you a quick overview of the market for each asset and help you find more of your favorites.</p>
 
 <ul>
-  <li><a href="https://docs.google.com/spreadsheets/d/1K-QILius6sJNX7GDwadAMY8fDNeEobkt1SjI3kOHk9E/edit#gid=1569056709"><b>Top Dogecoin NFTs - Dispenser Data Worksheets</b></a> (alpha)</li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1K-QILius6sJNX7GDwadAMY8fDNeEobkt1SjI3kOHk9E/edit#gid=1569056709"><b>Top Dogecoin NFTs - Dispenser Data Worksheets - Complete</b></a></li>
 </ul>
 
 <h3 id="historical">Dogecoin Historical Assets</h3>
@@ -177,52 +177,17 @@ date: 2022-06-22
 
 <p>This aspect of their tokenomics helps to ensure a wide distribution of the cards in the form of trading and mass giveaways, that commonly occur in <a href="https://t.me/XDPShill">XDP Shill</a> and <a href="https://t.me/RareDogeTraders">RareDogeTraders</a> telegram channels.</p>
 
-<div class="top-content">
-    <div class="container-fluid">
-        <div id="carousel-example" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner row w-100 mx-auto" role="listbox">
-                <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3 active">
-                    <a href="https://raredogedirectory.com/card/BAODOGE"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/BAODOGE.gif" alt="BAODOGE - RAREDOGE wishes you Happiness by eating baopepes. Rare Doge Directory"></a>
-                </div>
-                <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <a href="https://raredogedirectory.com/card/DOGEFEELS"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/DOGEFEELS.gif" alt="DOGEFEELS - Love burns... Rare Doge Directory"></a>
-                </div>
-                <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <a href="https://raredogedirectory.com/card/DOGEKUNOICHI"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/DOGEKUNOICHI.gif" alt='DOGEKUNOICHI - The term "kunoichi" refers to female ninja. They are believed to have been spies who took on the role of maidservants and other women to gather information. - Rare Doge Directory'></a>
-                </div>
-                <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <a href="https://raredogedirectory.com/card/DOGEVEC"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/DOGEVEC.gif" alt="DOGEVEC - Colorful Vector Art - Rare Doge Directory"></a>
-                </div>
-                <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <a href="https://raredogedirectory.com/card/KABOSUDOGE"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/KABOSUDOGE.gif" alt="KABOSUDOGE - Kabosu and Japanese sword combination - Rare Doge Directory"></a>
-                </div>
-                <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <a href="https://raredogedirectory.com/card/MOONDOG"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/MOONDOG.gif" alt="MOONDOG - Shoot for the moon! If you miss at least you will be amongst the stars! - Rare Doge Directory"></a>
-                </div>
-                <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <a href="https://raredogedirectory.com/card/NINJYADOGE"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/NINJYADOGE.gif" alt='NINJYADOGE - The ninja are said to have served feudal lords and lords in Japan from the Muromachi period (1336-1573) to the Edo period (1603-1868), and also to have worked independently in espionage, subversive activities, infiltration tactics, intrigue, and assa - Rare Doge Directory'></a>
-                </div>
-                <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <a href="https://raredogedirectory.com/card/PHISHINGDOGE"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/PHISHINGDOGE.gif" alt='PHISHINGDOGE - "BEWARE OF PHISHING SCAMS" - Rare Doge Directory'></a>
-                </div>
-                <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <a href="https://raredogedirectory.com/card/THIRDEYEDOGE"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/THIRDEYEDOGE.gif" alt='THIRDEYEDOGE - The all seeing doge is watching you - Rare Doge Directory'></a>
-                </div>
-                <div class="carousel-item col-12 col-sm-6 col-md-4 col-lg-3">
-                    <a href="https://raredogedirectory.com/card/TICDOGETOE"><img class="img-fluid mx-auto d-block" src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/TICDOGETOE.gif" alt='TICDOGETOE - Doge vs. Pepe in the Tic-Tac-Toe World Championship! - Rare Doge Directory'></a>
-                </div>
-            </div> 
-        </div>
-    </div>
-</div>
-<center><sup><a href="https://raredogedirectory.com">Rare Doge Directory</a></sup></center>
+<p>The following are The Most Valuable Rare Doge cards currently available and currently dispensing from 1000-44,000 DOGE each.</p>
+<p><center><img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/rare-top.webp" style="width:100%;"><br/><sup><a href="https://raredogedirectory.com">Most Valuable Cards in Rare Doge Directory</a></sup></center>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXU-EyBunhN0oamw50IBGUWOvx4i8VKlssca_U01xwBIgU6Hssij6k_z0J-jtGweK7fo3haUlz-bRf/pubhtml?gid=1790831678&amp;single=true&amp;widget=true&amp;headers=true" height="250" width="100%"></iframe></p>
 
-<p>While writing this article I've also been studying XChain API while brainstorming how best to keep better track of open dispensers on the top Dogeparty projects.</p>
+<p>Below is a collection of Rare Doge cards that have both the lowest cost and lowest supply, across all Rare Doge. Each of these assets have a quantity of 100 or less, available for under 300 DOGE EA by dispenser, making them the most valuable, yet affordable of the Rare Doge.</p>
 
-<p>What follows is a list of the Rare Doge assets that have both the lowest cost and lowest supply, across all Rare Doge. Each of these assets have a quantity of 100 or less, available for under 300 DOGE EA by dispenser.</p>
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXU-EyBunhN0oamw50IBGUWOvx4i8VKlssca_U01xwBIgU6Hssij6k_z0J-jtGweK7fo3haUlz-bRf/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=true" height="250" width="100%"></iframe>
 <p><center><a href="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/montage.webp"><img src="{{ site.baseurl }}/assets/images/top-dogecoin-nft/rare-doge/rare-deals_sm.webp" style="width:100%;"></a><br/><sup><a href="https://raredogedirectory.com">Rare Doge Directory</a></sup></center></p>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXU-EyBunhN0oamw50IBGUWOvx4i8VKlssca_U01xwBIgU6Hssij6k_z0J-jtGweK7fo3haUlz-bRf/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=true" height="250" width="100%"></iframe>
+<ul>
+  <li><a href="https://docs.google.com/spreadsheets/d/1K-QILius6sJNX7GDwadAMY8fDNeEobkt1SjI3kOHk9E/edit#gid=1569056709"><b>Top Dogecoin NFTs - Dispenser Data Worksheets - Complete</b></a></li>
+</ul>
 
 <h4>Dank Doge Directory - Doge KVLT - Trippy Tokens</h4>
 
